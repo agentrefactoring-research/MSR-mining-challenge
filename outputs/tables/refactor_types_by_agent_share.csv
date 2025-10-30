@@ -1,0 +1,289 @@
+agent,refactoring_type,count,share_pct
+Claude_Code,Add Method Annotation,25233,41.423974784121874
+Claude_Code,Add Parameter Annotation,16755,27.505992054371735
+Claude_Code,Modify Method Annotation,13343,21.90465246084644
+Claude_Code,Add Class Annotation,2281,3.7446235676527566
+Claude_Code,Modify Class Annotation,1375,2.257280756476344
+Claude_Code,Remove Method Annotation,654,1.0736448107167482
+Claude_Code,Change Variable Type,377,0.6189053419575139
+Claude_Code,Change Return Type,269,0.44160619890337194
+Claude_Code,Remove Parameter Annotation,128,0.2101323176937978
+Claude_Code,Remove Thrown Exception Type,109,0.1789408017861247
+Claude_Code,Add Method Modifier,100,0.16416587319827955
+Claude_Code,Add Parameter,90,0.1477492858784516
+Claude_Code,Reorder Parameter,50,0.08208293659913977
+Claude_Code,Modify Parameter Annotation,48,0.07879961913517418
+Claude_Code,Rename Method,37,0.06074137308336343
+Claude_Code,Extract Variable,26,0.04268312703155268
+Claude_Code,Remove Parameter,11,0.01805824605181075
+Claude_Code,Rename Variable,9,0.014774928587845158
+Claude_Code,Inline Variable,5,0.008208293659913978
+Claude_Code,Add Variable Modifier,3,0.004924976195948386
+Claude_Code,Add Parameter Modifier,2,0.0032833174639655908
+Claude_Code,Change Attribute Type,2,0.0032833174639655908
+Claude_Code,Extract Method,2,0.0032833174639655908
+Claude_Code,Add Attribute Modifier,1,0.0016416587319827954
+Claude_Code,Move Source Folder,1,0.0016416587319827954
+Claude_Code,Remove Attribute Modifier,1,0.0016416587319827954
+Claude_Code,Remove Method Modifier,1,0.0016416587319827954
+Claude_Code,Rename Attribute,1,0.0016416587319827954
+Copilot,Remove Parameter,1432,9.05985068961154
+Copilot,Move Class,1375,8.699228141212197
+Copilot,Remove Method Annotation,1234,7.8071618372769835
+Copilot,Modify Class Annotation,1171,7.408579020625079
+Copilot,Change Variable Type,1079,6.826521574085791
+Copilot,Add Method Annotation,862,5.45362520561812
+Copilot,Rename Variable,774,4.896874604580539
+Copilot,Inline Variable,668,4.226243198785271
+Copilot,Add Attribute Annotation,599,3.7897001138808046
+Copilot,Move Attribute,584,3.694799443249399
+Copilot,Remove Attribute Annotation,573,3.6252056181197014
+Copilot,Change Return Type,551,3.486017967860306
+Copilot,Extract Variable,494,3.1253954194609643
+Copilot,Add Parameter,480,3.0368214602049854
+Copilot,Rename Attribute,473,2.992534480576996
+Copilot,Move Method,405,2.5623181070479566
+Copilot,Change Attribute Type,287,1.815766164747564
+Copilot,Rename Parameter,282,1.7841326078704292
+Copilot,Rename Method,276,1.7461723396178666
+Copilot,Change Parameter Type,270,1.7082120713653042
+Copilot,Extract Method,212,1.3412628115905352
+Copilot,Remove Thrown Exception Type,192,1.2147285840819941
+Copilot,Change Method Access Modifier,180,1.1388080475768696
+Copilot,Modify Method Annotation,159,1.0059471086929015
+Copilot,Remove Attribute Modifier,159,1.0059471086929015
+Copilot,Move And Rename Method,128,0.8098190560546628
+Copilot,Rename Class,122,0.7718587878021005
+Copilot,Add Class Annotation,98,0.6200177147918512
+Copilot,Remove Class Annotation,64,0.4049095280273314
+Copilot,Add Thrown Exception Type,38,0.240415032266228
+Copilot,Move And Rename Class,37,0.23408832089080095
+Copilot,Extract And Move Method,34,0.2151081867645198
+Copilot,Extract Class,30,0.1898013412628116
+Copilot,Add Attribute Modifier,28,0.1771479185119575
+Copilot,Change Attribute Access Modifier,27,0.17082120713653043
+Copilot,Parameterize Variable,27,0.17082120713653043
+Copilot,Pull Up Method,26,0.1644944957611034
+Copilot,Encapsulate Attribute,25,0.15816778438567633
+Copilot,Inline Method,25,0.15816778438567633
+Copilot,Localize Parameter,22,0.13918765025939517
+Copilot,Remove Variable Modifier,22,0.13918765025939517
+Copilot,Replace Variable With Attribute,22,0.13918765025939517
+Copilot,Move Code,21,0.1328609388839681
+Copilot,Pull Up Attribute,21,0.1328609388839681
+Copilot,Move Source Folder,17,0.1075540933822599
+Copilot,Merge Parameter,16,0.10122738200683284
+Copilot,Add Method Modifier,15,0.0949006706314058
+Copilot,Remove Parameter Annotation,14,0.08857395925597875
+Copilot,Change Thrown Exception Type,13,0.0822472478805517
+Copilot,Add Variable Modifier,12,0.07592053650512463
+Copilot,Add Class Modifier,11,0.06959382512969758
+Copilot,Extract Attribute,9,0.05694040237884348
+Copilot,Remove Method Modifier,9,0.05694040237884348
+Copilot,Change Class Access Modifier,8,0.05061369100341642
+Copilot,Collapse Hierarchy,8,0.05061369100341642
+Copilot,Move And Inline Method,8,0.05061369100341642
+Copilot,Merge Class,7,0.04428697962798937
+Copilot,Split Class,7,0.04428697962798937
+Copilot,Replace Generic With Diamond,6,0.03796026825256232
+Copilot,Split Conditional,6,0.03796026825256232
+Copilot,Change Type Declaration Kind,5,0.03163355687713527
+Copilot,Extract Superclass,4,0.02530684550170821
+Copilot,Parameterize Attribute,4,0.02530684550170821
+Copilot,Split Attribute,4,0.02530684550170821
+Copilot,Split Variable,4,0.02530684550170821
+Copilot,Invert Condition,3,0.01898013412628116
+Copilot,Move Package,3,0.01898013412628116
+Copilot,Replace Anonymous With Class,3,0.01898013412628116
+Copilot,Split Parameter,3,0.01898013412628116
+Copilot,Add Parameter Modifier,2,0.012653422750854106
+Copilot,Remove Class Modifier,2,0.012653422750854106
+Copilot,Replace Anonymous With Lambda,2,0.012653422750854106
+Copilot,Replace Attribute With Variable,2,0.012653422750854106
+Copilot,Split Method,2,0.012653422750854106
+Copilot,Try With Resources,2,0.012653422750854106
+Copilot,Extract Interface,1,0.006326711375427053
+Copilot,Merge Conditional,1,0.006326711375427053
+Copilot,Merge Package,1,0.006326711375427053
+Copilot,Merge Variable,1,0.006326711375427053
+Copilot,Modify Parameter Annotation,1,0.006326711375427053
+Copilot,Move And Rename Attribute,1,0.006326711375427053
+Copilot,Replace Conditional With Ternary,1,0.006326711375427053
+Cursor,Extract Method,9,29.03225806451613
+Cursor,Extract And Move Method,5,16.129032258064516
+Cursor,Parameterize Variable,5,16.129032258064516
+Cursor,Add Method Annotation,3,9.67741935483871
+Cursor,Encapsulate Attribute,2,6.451612903225806
+Cursor,Remove Method Annotation,2,6.451612903225806
+Cursor,Change Attribute Type,1,3.225806451612903
+Cursor,Extract Variable,1,3.225806451612903
+Cursor,Inline Variable,1,3.225806451612903
+Cursor,Remove Thrown Exception Type,1,3.225806451612903
+Cursor,Rename Method,1,3.225806451612903
+Devin,Add Attribute Annotation,23,32.857142857142854
+Devin,Remove Attribute Annotation,23,32.857142857142854
+Devin,Extract Method,9,12.857142857142856
+Devin,Merge Conditional,8,11.428571428571429
+Devin,Rename Variable,5,7.142857142857142
+Devin,Invert Condition,2,2.857142857142857
+Human,Change Attribute Access Modifier,1038,5.9236432117788045
+Human,Move Class,1036,5.912229641043201
+Human,Extract Method,872,4.97631684072362
+Human,Change Parameter Type,867,4.947782913884609
+Human,Add Method Annotation,839,4.787992923586144
+Human,Change Return Type,783,4.468412942989214
+Human,Change Method Access Modifier,743,4.240141528277121
+Human,Rename Method,721,4.114592250185471
+Human,Change Variable Type,643,3.6694629914968897
+Human,Change Attribute Type,594,3.389830508474576
+Human,Extract And Move Method,591,3.3727101523711696
+Human,Add Parameter,510,2.9104605375791817
+Human,Extract Variable,509,2.9047537522113793
+Human,Rename Parameter,479,2.73355019117731
+Human,Add Parameter Modifier,460,2.6251212691890657
+Human,Rename Attribute,433,2.471038064258403
+Human,Add Attribute Modifier,424,2.4196769959481825
+Human,Add Method Modifier,402,2.2941277178565316
+Human,Move Method,387,2.2085259373394965
+Human,Rename Variable,365,2.082976659247846
+Human,Remove Parameter,295,1.6835016835016834
+Human,Move Attribute,278,1.5864863322490441
+Human,Rename Class,271,1.546538834674428
+Human,Inline Variable,229,1.3068538492267305
+Human,Pull Up Method,224,1.2783199223877189
+Human,Add Parameter Annotation,203,1.1584774296638705
+Human,Add Attribute Annotation,180,1.027221366204417
+Human,Add Variable Modifier,170,0.9701535125263939
+Human,Move And Rename Method,156,0.8902585173771614
+Human,Change Class Access Modifier,155,0.8845517320093591
+Human,Move And Rename Class,149,0.8503110198025452
+Human,Remove Method Annotation,140,0.7989499514923244
+Human,Add Class Annotation,139,0.7932431661245221
+Human,Add Class Modifier,136,0.7761228100211152
+Human,Pull Up Attribute,129,0.7361753124464989
+Human,Remove Parameter Modifier,126,0.7190549563430919
+Human,Remove Attribute Modifier,123,0.701934600239685
+Human,Encapsulate Attribute,112,0.6391599611938594
+Human,Split Conditional,110,0.6277463904582549
+Human,Extract Class,99,0.5649717514124294
+Human,Modify Class Annotation,87,0.4964903269988016
+Human,Extract Attribute,85,0.48507675626319696
+Human,Rename Package,76,0.43371568795297605
+Human,Parameterize Variable,70,0.3994749757461622
+Human,Remove Attribute Annotation,69,0.39376819037835986
+Human,Extract Superclass,65,0.37094104890715063
+Human,Move Source Folder,63,0.35952747817154596
+Human,Replace Variable With Attribute,62,0.3538206928037436
+Human,Merge Conditional,61,0.34811390743594134
+Human,Invert Condition,60,0.342407122068139
+Human,Remove Class Modifier,59,0.33670033670033667
+Human,Add Thrown Exception Type,47,0.2682189122867089
+Human,Replace Generic With Diamond,46,0.2625121269189066
+Human,Remove Method Modifier,45,0.25680534155110424
+Human,Inline Method,43,0.24539177081549962
+Human,Replace Attribute With Variable,41,0.23397820007989498
+Human,Move Code,39,0.22256462934429036
+Human,Parameterize Attribute,35,0.1997374878730811
+Human,Replace Anonymous With Lambda,35,0.1997374878730811
+Human,Move Package,34,0.1940307025052788
+Human,Remove Class Annotation,32,0.18261713176967415
+Human,Modify Method Annotation,26,0.14837641956286024
+Human,Push Down Method,23,0.1312560634594533
+Human,Remove Variable Modifier,21,0.11984249272384866
+Human,Remove Parameter Annotation,17,0.0970153512526394
+Human,Push Down Attribute,16,0.09130856588483707
+Human,Split Method,14,0.07989499514923243
+Human,Move And Inline Method,12,0.0684814244136278
+Human,Localize Parameter,11,0.06277463904582549
+Human,Move And Rename Attribute,11,0.06277463904582549
+Human,Extract Interface,10,0.057067853678023174
+Human,Merge Class,10,0.057067853678023174
+Human,Modify Attribute Annotation,10,0.057067853678023174
+Human,Replace Anonymous With Class,10,0.057067853678023174
+Human,Remove Thrown Exception Type,8,0.045654282942418536
+Human,Extract Subclass,7,0.039947497574616214
+Human,Change Type Declaration Kind,6,0.0342407122068139
+Human,Replace Conditional With Ternary,6,0.0342407122068139
+Human,Split Attribute,5,0.028533926839011587
+Human,Split Parameter,5,0.028533926839011587
+Human,Merge Attribute,4,0.022827141471209268
+Human,Merge Parameter,4,0.022827141471209268
+Human,Reorder Parameter,4,0.022827141471209268
+Human,Inline Attribute,2,0.011413570735604634
+Human,Merge Package,2,0.011413570735604634
+Human,Merge Variable,2,0.011413570735604634
+Human,Merge Method,1,0.005706785367802317
+Human,Split Class,1,0.005706785367802317
+Human,Split Package,1,0.005706785367802317
+OpenAI_Codex,Rename Parameter,556,15.145736856442385
+OpenAI_Codex,Change Variable Type,341,9.289022064832471
+OpenAI_Codex,Add Method Annotation,252,6.864614546445111
+OpenAI_Codex,Change Method Access Modifier,239,6.510487605557069
+OpenAI_Codex,Change Attribute Type,210,5.720512122037592
+OpenAI_Codex,Rename Variable,199,5.42086624897848
+OpenAI_Codex,Rename Method,195,5.311904113320621
+OpenAI_Codex,Remove Method Annotation,178,4.848815036774721
+OpenAI_Codex,Add Attribute Annotation,175,4.7670934350313265
+OpenAI_Codex,Remove Attribute Annotation,131,3.5685099427948783
+OpenAI_Codex,Add Attribute Modifier,129,3.514028874965949
+OpenAI_Codex,Extract Variable,106,2.887496594933261
+OpenAI_Codex,Rename Attribute,85,2.3154453827295014
+OpenAI_Codex,Extract Method,83,2.260964314900572
+OpenAI_Codex,Change Attribute Access Modifier,72,1.96131844184146
+OpenAI_Codex,Change Parameter Type,57,1.5527104331244892
+OpenAI_Codex,Change Return Type,57,1.5527104331244892
+OpenAI_Codex,Change Class Access Modifier,54,1.470988831381095
+OpenAI_Codex,Remove Thrown Exception Type,46,1.2530645600653774
+OpenAI_Codex,Add Class Annotation,44,1.198583492236448
+OpenAI_Codex,Add Parameter,43,1.1713429583219832
+OpenAI_Codex,Remove Attribute Modifier,43,1.1713429583219832
+OpenAI_Codex,Extract And Move Method,40,1.0896213565785888
+OpenAI_Codex,Add Thrown Exception Type,28,0.7627349496050122
+OpenAI_Codex,Inline Method,25,0.681013347861618
+OpenAI_Codex,Add Variable Modifier,24,0.6537728139471534
+OpenAI_Codex,Inline Variable,23,0.6265322800326887
+OpenAI_Codex,Remove Parameter,16,0.4358485426314356
+OpenAI_Codex,Change Thrown Exception Type,13,0.3541269408880414
+OpenAI_Codex,Remove Class Annotation,12,0.3268864069735767
+OpenAI_Codex,Remove Variable Modifier,12,0.3268864069735767
+OpenAI_Codex,Modify Method Annotation,11,0.299645873059112
+OpenAI_Codex,Pull Up Method,11,0.299645873059112
+OpenAI_Codex,Add Method Modifier,10,0.2724053391446472
+OpenAI_Codex,Move Attribute,10,0.2724053391446472
+OpenAI_Codex,Rename Class,10,0.2724053391446472
+OpenAI_Codex,Add Parameter Annotation,8,0.2179242713157178
+OpenAI_Codex,Assert Throws,8,0.2179242713157178
+OpenAI_Codex,Push Down Method,8,0.2179242713157178
+OpenAI_Codex,Add Class Modifier,7,0.19068373740125305
+OpenAI_Codex,Move Method,7,0.19068373740125305
+OpenAI_Codex,Try With Resources,7,0.19068373740125305
+OpenAI_Codex,Modify Attribute Annotation,6,0.16344320348678834
+OpenAI_Codex,Parameterize Variable,6,0.16344320348678834
+OpenAI_Codex,Remove Method Modifier,6,0.16344320348678834
+OpenAI_Codex,Replace Variable With Attribute,6,0.16344320348678834
+OpenAI_Codex,Extract Class,5,0.1362026695723236
+OpenAI_Codex,Move And Inline Method,4,0.1089621356578589
+OpenAI_Codex,Pull Up Attribute,4,0.1089621356578589
+OpenAI_Codex,Replace Attribute With Variable,4,0.1089621356578589
+OpenAI_Codex,Split Conditional,4,0.1089621356578589
+OpenAI_Codex,Collapse Hierarchy,3,0.08172160174339417
+OpenAI_Codex,Encapsulate Attribute,3,0.08172160174339417
+OpenAI_Codex,Extract Attribute,3,0.08172160174339417
+OpenAI_Codex,Invert Condition,3,0.08172160174339417
+OpenAI_Codex,Localize Parameter,3,0.08172160174339417
+OpenAI_Codex,Move And Rename Method,3,0.08172160174339417
+OpenAI_Codex,Push Down Attribute,3,0.08172160174339417
+OpenAI_Codex,Merge Conditional,2,0.05448106782892945
+OpenAI_Codex,Modify Class Annotation,2,0.05448106782892945
+OpenAI_Codex,Move Class,2,0.05448106782892945
+OpenAI_Codex,Move Code,2,0.05448106782892945
+OpenAI_Codex,Remove Parameter Modifier,2,0.05448106782892945
+OpenAI_Codex,Replace Pipeline With Loop,2,0.05448106782892945
+OpenAI_Codex,Add Variable Annotation,1,0.027240533914464723
+OpenAI_Codex,Change Type Declaration Kind,1,0.027240533914464723
+OpenAI_Codex,Merge Method,1,0.027240533914464723
+OpenAI_Codex,Move And Rename Attribute,1,0.027240533914464723
+OpenAI_Codex,Parameterize Attribute,1,0.027240533914464723
+OpenAI_Codex,Replace Attribute,1,0.027240533914464723
+OpenAI_Codex,Replace Loop With Pipeline,1,0.027240533914464723
+OpenAI_Codex,Split Method,1,0.027240533914464723

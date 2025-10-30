@@ -1,0 +1,1736 @@
+agent,full_name,refactoring_type,count
+Claude_Code,apache/pulsar,Add Attribute Modifier,1
+Claude_Code,apache/pulsar,Change Attribute Type,2
+Claude_Code,apache/pulsar,Extract Method,2
+Claude_Code,apache/pulsar,Extract Variable,1
+Claude_Code,apache/pulsar,Remove Attribute Modifier,1
+Claude_Code,apache/pulsar,Remove Method Modifier,1
+Claude_Code,apache/pulsar,Rename Attribute,1
+Claude_Code,dotCMS/core,Add Class Annotation,2281
+Claude_Code,dotCMS/core,Add Method Annotation,25233
+Claude_Code,dotCMS/core,Add Method Modifier,100
+Claude_Code,dotCMS/core,Add Parameter,90
+Claude_Code,dotCMS/core,Add Parameter Annotation,16755
+Claude_Code,dotCMS/core,Add Parameter Modifier,2
+Claude_Code,dotCMS/core,Add Variable Modifier,3
+Claude_Code,dotCMS/core,Change Return Type,269
+Claude_Code,dotCMS/core,Change Variable Type,377
+Claude_Code,dotCMS/core,Extract Variable,25
+Claude_Code,dotCMS/core,Inline Variable,5
+Claude_Code,dotCMS/core,Modify Class Annotation,1375
+Claude_Code,dotCMS/core,Modify Method Annotation,13343
+Claude_Code,dotCMS/core,Modify Parameter Annotation,48
+Claude_Code,dotCMS/core,Move Source Folder,1
+Claude_Code,dotCMS/core,Remove Method Annotation,654
+Claude_Code,dotCMS/core,Remove Parameter,11
+Claude_Code,dotCMS/core,Remove Parameter Annotation,128
+Claude_Code,dotCMS/core,Remove Thrown Exception Type,109
+Claude_Code,dotCMS/core,Rename Method,37
+Claude_Code,dotCMS/core,Rename Variable,9
+Claude_Code,dotCMS/core,Reorder Parameter,50
+Copilot,1c-syntax/bsl-language-server,Add Attribute Annotation,9
+Copilot,1c-syntax/bsl-language-server,Add Attribute Modifier,2
+Copilot,1c-syntax/bsl-language-server,Add Class Annotation,18
+Copilot,1c-syntax/bsl-language-server,Add Method Annotation,4
+Copilot,1c-syntax/bsl-language-server,Add Parameter,1
+Copilot,1c-syntax/bsl-language-server,Add Thrown Exception Type,1
+Copilot,1c-syntax/bsl-language-server,Change Method Access Modifier,1
+Copilot,1c-syntax/bsl-language-server,Extract Class,2
+Copilot,1c-syntax/bsl-language-server,Extract Method,1
+Copilot,1c-syntax/bsl-language-server,Extract Variable,3
+Copilot,1c-syntax/bsl-language-server,Inline Method,1
+Copilot,1c-syntax/bsl-language-server,Move Attribute,7
+Copilot,1c-syntax/bsl-language-server,Move Code,1
+Copilot,1c-syntax/bsl-language-server,Move Method,14
+Copilot,1c-syntax/bsl-language-server,Remove Attribute Annotation,4
+Copilot,1c-syntax/bsl-language-server,Remove Attribute Modifier,1
+Copilot,1c-syntax/bsl-language-server,Remove Class Annotation,15
+Copilot,1c-syntax/bsl-language-server,Remove Method Annotation,2
+Copilot,1c-syntax/bsl-language-server,Remove Parameter,1
+Copilot,1c-syntax/bsl-language-server,Rename Variable,2
+Copilot,1c-syntax/bsl-language-server,Replace Attribute With Variable,1
+Copilot,Azure/azure-sdk-for-java,Add Attribute Annotation,33
+Copilot,Azure/azure-sdk-for-java,Add Attribute Modifier,21
+Copilot,Azure/azure-sdk-for-java,Add Class Annotation,41
+Copilot,Azure/azure-sdk-for-java,Add Class Modifier,6
+Copilot,Azure/azure-sdk-for-java,Add Method Annotation,530
+Copilot,Azure/azure-sdk-for-java,Add Method Modifier,13
+Copilot,Azure/azure-sdk-for-java,Add Parameter,178
+Copilot,Azure/azure-sdk-for-java,Add Thrown Exception Type,32
+Copilot,Azure/azure-sdk-for-java,Add Variable Modifier,2
+Copilot,Azure/azure-sdk-for-java,Change Attribute Access Modifier,26
+Copilot,Azure/azure-sdk-for-java,Change Attribute Type,240
+Copilot,Azure/azure-sdk-for-java,Change Class Access Modifier,4
+Copilot,Azure/azure-sdk-for-java,Change Method Access Modifier,106
+Copilot,Azure/azure-sdk-for-java,Change Parameter Type,221
+Copilot,Azure/azure-sdk-for-java,Change Return Type,449
+Copilot,Azure/azure-sdk-for-java,Change Thrown Exception Type,12
+Copilot,Azure/azure-sdk-for-java,Change Variable Type,930
+Copilot,Azure/azure-sdk-for-java,Encapsulate Attribute,21
+Copilot,Azure/azure-sdk-for-java,Extract And Move Method,13
+Copilot,Azure/azure-sdk-for-java,Extract Attribute,9
+Copilot,Azure/azure-sdk-for-java,Extract Class,26
+Copilot,Azure/azure-sdk-for-java,Extract Method,168
+Copilot,Azure/azure-sdk-for-java,Extract Variable,263
+Copilot,Azure/azure-sdk-for-java,Inline Method,24
+Copilot,Azure/azure-sdk-for-java,Inline Variable,653
+Copilot,Azure/azure-sdk-for-java,Localize Parameter,20
+Copilot,Azure/azure-sdk-for-java,Merge Class,6
+Copilot,Azure/azure-sdk-for-java,Merge Conditional,1
+Copilot,Azure/azure-sdk-for-java,Merge Parameter,16
+Copilot,Azure/azure-sdk-for-java,Modify Class Annotation,1151
+Copilot,Azure/azure-sdk-for-java,Modify Method Annotation,141
+Copilot,Azure/azure-sdk-for-java,Move And Inline Method,6
+Copilot,Azure/azure-sdk-for-java,Move And Rename Attribute,1
+Copilot,Azure/azure-sdk-for-java,Move And Rename Class,26
+Copilot,Azure/azure-sdk-for-java,Move And Rename Method,45
+Copilot,Azure/azure-sdk-for-java,Move Attribute,23
+Copilot,Azure/azure-sdk-for-java,Move Class,1317
+Copilot,Azure/azure-sdk-for-java,Move Code,17
+Copilot,Azure/azure-sdk-for-java,Move Method,223
+Copilot,Azure/azure-sdk-for-java,Move Package,3
+Copilot,Azure/azure-sdk-for-java,Move Source Folder,15
+Copilot,Azure/azure-sdk-for-java,Parameterize Attribute,4
+Copilot,Azure/azure-sdk-for-java,Parameterize Variable,24
+Copilot,Azure/azure-sdk-for-java,Remove Attribute Annotation,12
+Copilot,Azure/azure-sdk-for-java,Remove Attribute Modifier,158
+Copilot,Azure/azure-sdk-for-java,Remove Class Annotation,30
+Copilot,Azure/azure-sdk-for-java,Remove Method Annotation,961
+Copilot,Azure/azure-sdk-for-java,Remove Method Modifier,6
+Copilot,Azure/azure-sdk-for-java,Remove Parameter,1411
+Copilot,Azure/azure-sdk-for-java,Remove Parameter Annotation,14
+Copilot,Azure/azure-sdk-for-java,Remove Thrown Exception Type,172
+Copilot,Azure/azure-sdk-for-java,Remove Variable Modifier,13
+Copilot,Azure/azure-sdk-for-java,Rename Attribute,365
+Copilot,Azure/azure-sdk-for-java,Rename Class,109
+Copilot,Azure/azure-sdk-for-java,Rename Method,242
+Copilot,Azure/azure-sdk-for-java,Rename Parameter,266
+Copilot,Azure/azure-sdk-for-java,Rename Variable,675
+Copilot,Azure/azure-sdk-for-java,Replace Anonymous With Class,3
+Copilot,Azure/azure-sdk-for-java,Replace Anonymous With Lambda,2
+Copilot,Azure/azure-sdk-for-java,Replace Generic With Diamond,5
+Copilot,Azure/azure-sdk-for-java,Replace Variable With Attribute,14
+Copilot,Azure/azure-sdk-for-java,Split Attribute,4
+Copilot,Azure/azure-sdk-for-java,Split Class,7
+Copilot,Azure/azure-sdk-for-java,Split Conditional,4
+Copilot,Azure/azure-sdk-for-java,Split Method,2
+Copilot,Azure/azure-sdk-for-java,Split Parameter,3
+Copilot,Azure/azure-sdk-for-java,Split Variable,4
+Copilot,CarGuo/GSYVideoPlayer,Add Attribute Modifier,1
+Copilot,CarGuo/GSYVideoPlayer,Add Method Modifier,1
+Copilot,CarGuo/GSYVideoPlayer,Extract Variable,1
+Copilot,EduMIPS64/edumips64,Add Attribute Modifier,1
+Copilot,EduMIPS64/edumips64,Add Method Annotation,1
+Copilot,EduMIPS64/edumips64,Change Attribute Access Modifier,1
+Copilot,EduMIPS64/edumips64,Change Attribute Type,4
+Copilot,EduMIPS64/edumips64,Change Class Access Modifier,4
+Copilot,EduMIPS64/edumips64,Change Method Access Modifier,1
+Copilot,EduMIPS64/edumips64,Change Parameter Type,6
+Copilot,EduMIPS64/edumips64,Change Return Type,4
+Copilot,EduMIPS64/edumips64,Change Variable Type,26
+Copilot,EduMIPS64/edumips64,Extract And Move Method,6
+Copilot,EduMIPS64/edumips64,Extract Superclass,3
+Copilot,EduMIPS64/edumips64,Inline Variable,1
+Copilot,EduMIPS64/edumips64,Move And Inline Method,2
+Copilot,EduMIPS64/edumips64,Move And Rename Method,1
+Copilot,EduMIPS64/edumips64,Move Class,3
+Copilot,EduMIPS64/edumips64,Pull Up Attribute,15
+Copilot,EduMIPS64/edumips64,Pull Up Method,21
+Copilot,EduMIPS64/edumips64,Remove Class Modifier,2
+Copilot,EduMIPS64/edumips64,Remove Method Annotation,1
+Copilot,EduMIPS64/edumips64,Rename Method,1
+Copilot,apolloconfig/apollo,Add Parameter,7
+Copilot,apolloconfig/apollo,Remove Parameter,6
+Copilot,apolloconfig/apollo,Rename Attribute,1
+Copilot,apolloconfig/apollo,Rename Method,2
+Copilot,apolloconfig/apollo,Rename Parameter,4
+Copilot,binarywang/WxJava,Change Variable Type,1
+Copilot,binarywang/WxJava,Extract Method,2
+Copilot,binarywang/WxJava,Extract Superclass,1
+Copilot,binarywang/WxJava,Extract Variable,3
+Copilot,binarywang/WxJava,Rename Attribute,100
+Copilot,binarywang/WxJava,Rename Class,1
+Copilot,binarywang/WxJava,Rename Variable,1
+Copilot,camunda/camunda,Add Attribute Annotation,1
+Copilot,camunda/camunda,Add Attribute Modifier,2
+Copilot,camunda/camunda,Add Class Annotation,33
+Copilot,camunda/camunda,Add Method Annotation,59
+Copilot,camunda/camunda,Add Parameter,12
+Copilot,camunda/camunda,Add Parameter Modifier,2
+Copilot,camunda/camunda,Change Attribute Type,3
+Copilot,camunda/camunda,Change Parameter Type,4
+Copilot,camunda/camunda,Change Return Type,1
+Copilot,camunda/camunda,Change Variable Type,6
+Copilot,camunda/camunda,Extract And Move Method,1
+Copilot,camunda/camunda,Extract Method,4
+Copilot,camunda/camunda,Extract Variable,4
+Copilot,camunda/camunda,Inline Variable,1
+Copilot,camunda/camunda,Modify Class Annotation,1
+Copilot,camunda/camunda,Modify Method Annotation,1
+Copilot,camunda/camunda,Modify Parameter Annotation,1
+Copilot,camunda/camunda,Move Class,1
+Copilot,camunda/camunda,Remove Attribute Annotation,1
+Copilot,camunda/camunda,Remove Class Annotation,17
+Copilot,camunda/camunda,Remove Method Annotation,5
+Copilot,camunda/camunda,Remove Method Modifier,1
+Copilot,camunda/camunda,Remove Parameter,6
+Copilot,camunda/camunda,Remove Thrown Exception Type,3
+Copilot,camunda/camunda,Rename Attribute,5
+Copilot,camunda/camunda,Rename Class,3
+Copilot,camunda/camunda,Rename Method,11
+Copilot,camunda/camunda,Rename Parameter,4
+Copilot,camunda/camunda,Rename Variable,3
+Copilot,halo-dev/halo,Extract Method,1
+Copilot,halo-dev/halo,Extract Variable,1
+Copilot,jenkinsci/jira-plugin,Add Class Annotation,1
+Copilot,jenkinsci/jira-plugin,Add Method Annotation,3
+Copilot,jenkinsci/jira-plugin,Add Parameter,1
+Copilot,jenkinsci/jira-plugin,Change Attribute Type,2
+Copilot,jenkinsci/jira-plugin,Change Method Access Modifier,5
+Copilot,jenkinsci/jira-plugin,Change Variable Type,12
+Copilot,jenkinsci/jira-plugin,Extract And Move Method,2
+Copilot,jenkinsci/jira-plugin,Extract Class,1
+Copilot,jenkinsci/jira-plugin,Inline Variable,4
+Copilot,jenkinsci/jira-plugin,Move And Rename Class,1
+Copilot,jenkinsci/jira-plugin,Move And Rename Method,1
+Copilot,jenkinsci/jira-plugin,Move Class,38
+Copilot,jenkinsci/jira-plugin,Move Method,3
+Copilot,jenkinsci/jira-plugin,Move Source Folder,2
+Copilot,jenkinsci/jira-plugin,Remove Method Annotation,4
+Copilot,jenkinsci/jira-plugin,Remove Variable Modifier,5
+Copilot,jenkinsci/jira-plugin,Rename Attribute,1
+Copilot,jenkinsci/jira-plugin,Rename Method,3
+Copilot,jenkinsci/jira-plugin,Rename Variable,5
+Copilot,microsoft/ApplicationInsights-Java,Add Attribute Modifier,1
+Copilot,microsoft/ApplicationInsights-Java,Add Class Annotation,3
+Copilot,microsoft/ApplicationInsights-Java,Add Class Modifier,1
+Copilot,microsoft/ApplicationInsights-Java,Add Method Annotation,9
+Copilot,microsoft/ApplicationInsights-Java,Add Parameter,2
+Copilot,microsoft/ApplicationInsights-Java,Add Thrown Exception Type,5
+Copilot,microsoft/ApplicationInsights-Java,Change Method Access Modifier,1
+Copilot,microsoft/ApplicationInsights-Java,Change Return Type,2
+Copilot,microsoft/ApplicationInsights-Java,Change Variable Type,2
+Copilot,microsoft/ApplicationInsights-Java,Encapsulate Attribute,3
+Copilot,microsoft/ApplicationInsights-Java,Extract And Move Method,12
+Copilot,microsoft/ApplicationInsights-Java,Inline Variable,4
+Copilot,microsoft/ApplicationInsights-Java,Localize Parameter,1
+Copilot,microsoft/ApplicationInsights-Java,Move And Rename Method,1
+Copilot,microsoft/ApplicationInsights-Java,Move Method,1
+Copilot,microsoft/ApplicationInsights-Java,Remove Class Annotation,1
+Copilot,microsoft/ApplicationInsights-Java,Remove Method Annotation,1
+Copilot,microsoft/ApplicationInsights-Java,Remove Thrown Exception Type,17
+Copilot,microsoft/ApplicationInsights-Java,Rename Method,4
+Copilot,microsoft/ApplicationInsights-Java,Rename Variable,3
+Copilot,microsoft/ApplicationInsights-Java,Replace Attribute With Variable,1
+Copilot,microsoft/ApplicationInsights-Java,Replace Variable With Attribute,8
+Copilot,microsoft/ApplicationInsights-Java,Try With Resources,2
+Copilot,microsoft/typespec,Add Attribute Annotation,556
+Copilot,microsoft/typespec,Add Class Annotation,2
+Copilot,microsoft/typespec,Add Class Modifier,4
+Copilot,microsoft/typespec,Add Method Annotation,256
+Copilot,microsoft/typespec,Add Parameter,277
+Copilot,microsoft/typespec,Add Variable Modifier,1
+Copilot,microsoft/typespec,Change Attribute Type,38
+Copilot,microsoft/typespec,Change Method Access Modifier,66
+Copilot,microsoft/typespec,Change Parameter Type,39
+Copilot,microsoft/typespec,Change Return Type,95
+Copilot,microsoft/typespec,Change Type Declaration Kind,5
+Copilot,microsoft/typespec,Change Variable Type,97
+Copilot,microsoft/typespec,Collapse Hierarchy,8
+Copilot,microsoft/typespec,Encapsulate Attribute,1
+Copilot,microsoft/typespec,Extract Class,1
+Copilot,microsoft/typespec,Extract Interface,1
+Copilot,microsoft/typespec,Extract Method,3
+Copilot,microsoft/typespec,Extract Variable,214
+Copilot,microsoft/typespec,Inline Variable,3
+Copilot,microsoft/typespec,Localize Parameter,1
+Copilot,microsoft/typespec,Merge Class,1
+Copilot,microsoft/typespec,Merge Package,1
+Copilot,microsoft/typespec,Modify Class Annotation,19
+Copilot,microsoft/typespec,Modify Method Annotation,12
+Copilot,microsoft/typespec,Move And Rename Class,10
+Copilot,microsoft/typespec,Move And Rename Method,79
+Copilot,microsoft/typespec,Move Attribute,554
+Copilot,microsoft/typespec,Move Class,16
+Copilot,microsoft/typespec,Move Code,3
+Copilot,microsoft/typespec,Move Method,164
+Copilot,microsoft/typespec,Parameterize Variable,1
+Copilot,microsoft/typespec,Pull Up Attribute,6
+Copilot,microsoft/typespec,Pull Up Method,5
+Copilot,microsoft/typespec,Remove Attribute Annotation,556
+Copilot,microsoft/typespec,Remove Class Annotation,1
+Copilot,microsoft/typespec,Remove Method Annotation,259
+Copilot,microsoft/typespec,Remove Method Modifier,2
+Copilot,microsoft/typespec,Remove Parameter,8
+Copilot,microsoft/typespec,Rename Attribute,1
+Copilot,microsoft/typespec,Rename Class,9
+Copilot,microsoft/typespec,Rename Method,10
+Copilot,microsoft/typespec,Rename Parameter,8
+Copilot,microsoft/typespec,Rename Variable,84
+Copilot,microsoft/typespec,Replace Conditional With Ternary,1
+Copilot,microsoft/typespec,Split Conditional,1
+Copilot,mixpanel/mixpanel-android,Extract Variable,1
+Copilot,mixpanel/mixpanel-android,Replace Generic With Diamond,1
+Copilot,objectionary/eo,Add Method Modifier,1
+Copilot,objectionary/eo,Add Variable Modifier,9
+Copilot,objectionary/eo,Change Thrown Exception Type,1
+Copilot,objectionary/eo,Change Variable Type,1
+Copilot,objectionary/eo,Extract Variable,1
+Copilot,objectionary/eo,Move And Rename Method,1
+Copilot,objectionary/eo,Rename Method,3
+Copilot,objectionary/eo,Rename Variable,1
+Copilot,tonihele/OpenKeeper,Change Variable Type,1
+Copilot,tonihele/OpenKeeper,Extract Variable,1
+Copilot,vaadin/flow,Add Parameter,2
+Copilot,vaadin/flow,Extract Method,33
+Copilot,vaadin/flow,Extract Variable,2
+Copilot,vaadin/flow,Inline Variable,2
+Copilot,vaadin/flow,Invert Condition,3
+Copilot,vaadin/flow,Merge Variable,1
+Copilot,vaadin/flow,Parameterize Variable,2
+Copilot,vaadin/flow,Remove Variable Modifier,4
+Copilot,vaadin/flow,Split Conditional,1
+Copilot,valkey-io/valkey-glide,Modify Method Annotation,5
+Copilot,valkey-io/valkey-glide,Remove Method Annotation,1
+Copilot,yegor256/cactoos,Change Variable Type,3
+Cursor,StarRocks/starrocks,Add Method Annotation,2
+Cursor,StarRocks/starrocks,Encapsulate Attribute,2
+Cursor,StarRocks/starrocks,Extract And Move Method,5
+Cursor,StarRocks/starrocks,Extract Method,9
+Cursor,StarRocks/starrocks,Parameterize Variable,5
+Cursor,StarRocks/starrocks,Remove Method Annotation,2
+Cursor,StarRocks/starrocks,Remove Thrown Exception Type,1
+Cursor,StarRocks/starrocks,Rename Method,1
+Cursor,YunaiV/yudao-cloud,Add Method Annotation,1
+Cursor,why168/LoopViewPagerLayout,Change Attribute Type,1
+Cursor,why168/LoopViewPagerLayout,Extract Variable,1
+Cursor,why168/LoopViewPagerLayout,Inline Variable,1
+Devin,domaframework/doma,Extract Method,9
+Devin,domaframework/doma,Invert Condition,2
+Devin,domaframework/doma,Merge Conditional,8
+Devin,domaframework/doma,Rename Variable,5
+Devin,rieckpil/testing-spring-boot-applications-masterclass,Add Attribute Annotation,23
+Devin,rieckpil/testing-spring-boot-applications-masterclass,Remove Attribute Annotation,23
+Human,Ashok-Varma/BottomNavigation,Add Class Modifier,1
+Human,Ashok-Varma/BottomNavigation,Add Parameter Annotation,28
+Human,Ashok-Varma/BottomNavigation,Encapsulate Attribute,1
+Human,Ashok-Varma/BottomNavigation,Extract Method,4
+Human,Ashok-Varma/BottomNavigation,Extract Variable,3
+Human,Ashok-Varma/BottomNavigation,Inline Method,6
+Human,Ashok-Varma/BottomNavigation,Inline Variable,2
+Human,Clans/FloatingActionButton,Add Parameter,6
+Human,Clans/FloatingActionButton,Add Parameter Annotation,8
+Human,Clans/FloatingActionButton,Add Variable Modifier,4
+Human,Clans/FloatingActionButton,Change Attribute Access Modifier,6
+Human,Clans/FloatingActionButton,Change Attribute Type,1
+Human,Clans/FloatingActionButton,Change Class Access Modifier,1
+Human,Clans/FloatingActionButton,Change Method Access Modifier,6
+Human,Clans/FloatingActionButton,Change Return Type,1
+Human,Clans/FloatingActionButton,Change Variable Type,10
+Human,Clans/FloatingActionButton,Encapsulate Attribute,7
+Human,Clans/FloatingActionButton,Extract Method,2
+Human,Clans/FloatingActionButton,Extract Variable,7
+Human,Clans/FloatingActionButton,Invert Condition,4
+Human,Clans/FloatingActionButton,Modify Method Annotation,2
+Human,Clans/FloatingActionButton,Move And Rename Method,3
+Human,Clans/FloatingActionButton,Move Attribute,3
+Human,Clans/FloatingActionButton,Move Code,2
+Human,Clans/FloatingActionButton,Remove Variable Modifier,3
+Human,Clans/FloatingActionButton,Rename Attribute,5
+Human,Clans/FloatingActionButton,Rename Class,6
+Human,Clans/FloatingActionButton,Rename Method,1
+Human,Clans/FloatingActionButton,Rename Variable,11
+Human,Clans/FloatingActionButton,Replace Variable With Attribute,12
+Human,Clans/FloatingActionButton,Split Conditional,2
+Human,Clans/FloatingActionButton,Split Method,2
+Human,Flipboard/bottomsheet,Add Class Annotation,1
+Human,Flipboard/bottomsheet,Add Class Modifier,3
+Human,Flipboard/bottomsheet,Add Parameter,2
+Human,Flipboard/bottomsheet,Add Parameter Annotation,3
+Human,Flipboard/bottomsheet,Add Parameter Modifier,6
+Human,Flipboard/bottomsheet,Add Variable Modifier,5
+Human,Flipboard/bottomsheet,Change Attribute Access Modifier,7
+Human,Flipboard/bottomsheet,Change Attribute Type,4
+Human,Flipboard/bottomsheet,Change Method Access Modifier,1
+Human,Flipboard/bottomsheet,Change Parameter Type,17
+Human,Flipboard/bottomsheet,Change Return Type,2
+Human,Flipboard/bottomsheet,Change Variable Type,4
+Human,Flipboard/bottomsheet,Encapsulate Attribute,2
+Human,Flipboard/bottomsheet,Extract Attribute,2
+Human,Flipboard/bottomsheet,Extract Method,2
+Human,Flipboard/bottomsheet,Extract Variable,3
+Human,Flipboard/bottomsheet,Inline Method,1
+Human,Flipboard/bottomsheet,Invert Condition,1
+Human,Flipboard/bottomsheet,Merge Attribute,1
+Human,Flipboard/bottomsheet,Merge Conditional,2
+Human,Flipboard/bottomsheet,Merge Parameter,1
+Human,Flipboard/bottomsheet,Modify Method Annotation,1
+Human,Flipboard/bottomsheet,Move And Inline Method,1
+Human,Flipboard/bottomsheet,Move Attribute,1
+Human,Flipboard/bottomsheet,Move Code,1
+Human,Flipboard/bottomsheet,Move Method,1
+Human,Flipboard/bottomsheet,Remove Attribute Modifier,2
+Human,Flipboard/bottomsheet,Remove Parameter Annotation,1
+Human,Flipboard/bottomsheet,Rename Attribute,4
+Human,Flipboard/bottomsheet,Rename Class,3
+Human,Flipboard/bottomsheet,Rename Method,8
+Human,Flipboard/bottomsheet,Rename Parameter,7
+Human,Flipboard/bottomsheet,Rename Variable,4
+Human,Flipboard/bottomsheet,Split Conditional,2
+Human,Jacksgong/JKeyboardPanelSwitch,Change Return Type,2
+Human,Jacksgong/JKeyboardPanelSwitch,Extract Variable,1
+Human,Jacksgong/JKeyboardPanelSwitch,Replace Anonymous With Class,1
+Human,Jacksgong/JKeyboardPanelSwitch,Replace Attribute With Variable,1
+Human,JakeWharton/DiskLruCache,Add Class Modifier,1
+Human,JakeWharton/DiskLruCache,Add Method Modifier,1
+Human,JakeWharton/DiskLruCache,Add Parameter,1
+Human,JakeWharton/DiskLruCache,Add Variable Modifier,1
+Human,JakeWharton/DiskLruCache,Change Attribute Access Modifier,1
+Human,JakeWharton/DiskLruCache,Change Attribute Type,1
+Human,JakeWharton/DiskLruCache,Change Class Access Modifier,2
+Human,JakeWharton/DiskLruCache,Change Method Access Modifier,1
+Human,JakeWharton/DiskLruCache,Change Variable Type,1
+Human,JakeWharton/DiskLruCache,Extract Variable,1
+Human,JakeWharton/DiskLruCache,Inline Variable,2
+Human,JakeWharton/DiskLruCache,Move Method,4
+Human,JakeWharton/DiskLruCache,Remove Attribute Modifier,1
+Human,JakeWharton/DiskLruCache,Rename Attribute,3
+Human,JakeWharton/DiskLruCache,Rename Class,1
+Human,JakeWharton/DiskLruCache,Rename Method,1
+Human,JakeWharton/DiskLruCache,Rename Variable,4
+Human,JakeWharton/NineOldAndroids,Change Attribute Type,3
+Human,JakeWharton/NineOldAndroids,Extract Method,1
+Human,JakeWharton/NineOldAndroids,Extract Variable,38
+Human,JakeWharton/NineOldAndroids,Parameterize Variable,1
+Human,JakeWharton/NineOldAndroids,Remove Variable Modifier,1
+Human,JakeWharton/NineOldAndroids,Rename Variable,2
+Human,KingJA/LoadSir,Invert Condition,4
+Human,MiguelCatalan/MaterialSearchView,Add Parameter,1
+Human,MiguelCatalan/MaterialSearchView,Change Method Access Modifier,2
+Human,MiguelCatalan/MaterialSearchView,Extract Method,1
+Human,MiguelCatalan/MaterialSearchView,Extract Variable,1
+Human,MiguelCatalan/MaterialSearchView,Inline Variable,1
+Human,MiguelCatalan/MaterialSearchView,Remove Parameter,1
+Human,Netflix/SimianArmy,Add Attribute Modifier,2
+Human,Netflix/SimianArmy,Add Class Annotation,4
+Human,Netflix/SimianArmy,Add Parameter,12
+Human,Netflix/SimianArmy,Change Attribute Access Modifier,40
+Human,Netflix/SimianArmy,Change Method Access Modifier,19
+Human,Netflix/SimianArmy,Change Return Type,6
+Human,Netflix/SimianArmy,Change Variable Type,8
+Human,Netflix/SimianArmy,Encapsulate Attribute,1
+Human,Netflix/SimianArmy,Extract Attribute,2
+Human,Netflix/SimianArmy,Extract Method,28
+Human,Netflix/SimianArmy,Extract Variable,23
+Human,Netflix/SimianArmy,Inline Method,1
+Human,Netflix/SimianArmy,Invert Condition,1
+Human,Netflix/SimianArmy,Localize Parameter,1
+Human,Netflix/SimianArmy,Merge Conditional,2
+Human,Netflix/SimianArmy,Modify Method Annotation,4
+Human,Netflix/SimianArmy,Move And Rename Method,1
+Human,Netflix/SimianArmy,Move Class,2
+Human,Netflix/SimianArmy,Remove Attribute Modifier,2
+Human,Netflix/SimianArmy,Remove Class Annotation,1
+Human,Netflix/SimianArmy,Remove Method Annotation,1
+Human,Netflix/SimianArmy,Remove Method Modifier,1
+Human,Netflix/SimianArmy,Rename Attribute,1
+Human,Netflix/SimianArmy,Rename Class,1
+Human,Netflix/SimianArmy,Rename Method,1
+Human,Netflix/SimianArmy,Rename Variable,1
+Human,Netflix/SimianArmy,Replace Generic With Diamond,6
+Human,Oleg-Beloy/ChipsLayoutManager,Modify Class Annotation,1
+Human,Yalantis/Side-Menu.Android,Change Attribute Type,4
+Human,Yalantis/Side-Menu.Android,Change Parameter Type,4
+Human,Yalantis/Side-Menu.Android,Change Variable Type,1
+Human,Yalantis/Side-Menu.Android,Rename Attribute,4
+Human,alibaba/dexposed,Remove Method Modifier,1
+Human,alibaba/freeline,Add Class Modifier,1
+Human,alibaba/freeline,Add Method Annotation,2
+Human,alibaba/freeline,Add Method Modifier,25
+Human,alibaba/freeline,Add Parameter,2
+Human,alibaba/freeline,Add Parameter Modifier,12
+Human,alibaba/freeline,Add Thrown Exception Type,4
+Human,alibaba/freeline,Add Variable Modifier,4
+Human,alibaba/freeline,Change Attribute Type,5
+Human,alibaba/freeline,Change Class Access Modifier,1
+Human,alibaba/freeline,Change Method Access Modifier,15
+Human,alibaba/freeline,Change Parameter Type,4
+Human,alibaba/freeline,Change Return Type,10
+Human,alibaba/freeline,Change Variable Type,5
+Human,alibaba/freeline,Encapsulate Attribute,2
+Human,alibaba/freeline,Extract And Move Method,4
+Human,alibaba/freeline,Extract Class,10
+Human,alibaba/freeline,Extract Method,22
+Human,alibaba/freeline,Extract Variable,3
+Human,alibaba/freeline,Inline Method,4
+Human,alibaba/freeline,Move And Inline Method,1
+Human,alibaba/freeline,Move And Rename Method,3
+Human,alibaba/freeline,Move Attribute,4
+Human,alibaba/freeline,Move Class,4
+Human,alibaba/freeline,Move Method,28
+Human,alibaba/freeline,Move Package,4
+Human,alibaba/freeline,Move Source Folder,4
+Human,alibaba/freeline,Rename Attribute,2
+Human,alibaba/freeline,Rename Class,7
+Human,alibaba/freeline,Rename Method,4
+Human,alibaba/freeline,Rename Parameter,2
+Human,alibaba/freeline,Rename Variable,4
+Human,amlcurran/ShowcaseView,Add Attribute Annotation,3
+Human,amlcurran/ShowcaseView,Add Class Annotation,3
+Human,amlcurran/ShowcaseView,Add Method Annotation,18
+Human,amlcurran/ShowcaseView,Add Parameter,13
+Human,amlcurran/ShowcaseView,Add Parameter Annotation,10
+Human,amlcurran/ShowcaseView,Add Parameter Modifier,1
+Human,amlcurran/ShowcaseView,Change Attribute Access Modifier,11
+Human,amlcurran/ShowcaseView,Change Attribute Type,5
+Human,amlcurran/ShowcaseView,Change Class Access Modifier,18
+Human,amlcurran/ShowcaseView,Change Method Access Modifier,6
+Human,amlcurran/ShowcaseView,Change Parameter Type,4
+Human,amlcurran/ShowcaseView,Change Variable Type,1
+Human,amlcurran/ShowcaseView,Extract Attribute,19
+Human,amlcurran/ShowcaseView,Extract Class,1
+Human,amlcurran/ShowcaseView,Extract Method,4
+Human,amlcurran/ShowcaseView,Extract Superclass,1
+Human,amlcurran/ShowcaseView,Extract Variable,14
+Human,amlcurran/ShowcaseView,Inline Method,1
+Human,amlcurran/ShowcaseView,Inline Variable,2
+Human,amlcurran/ShowcaseView,Move Attribute,4
+Human,amlcurran/ShowcaseView,Move Class,1
+Human,amlcurran/ShowcaseView,Move Code,1
+Human,amlcurran/ShowcaseView,Move Method,4
+Human,amlcurran/ShowcaseView,Parameterize Variable,3
+Human,amlcurran/ShowcaseView,Pull Up Method,3
+Human,amlcurran/ShowcaseView,Remove Attribute Modifier,14
+Human,amlcurran/ShowcaseView,Remove Parameter,9
+Human,amlcurran/ShowcaseView,Rename Attribute,13
+Human,amlcurran/ShowcaseView,Rename Class,1
+Human,amlcurran/ShowcaseView,Rename Method,5
+Human,amlcurran/ShowcaseView,Rename Parameter,7
+Human,amlcurran/ShowcaseView,Rename Variable,2
+Human,amlcurran/ShowcaseView,Replace Variable With Attribute,2
+Human,andkulikov/Transitions-Everywhere,Add Attribute Modifier,1
+Human,andkulikov/Transitions-Everywhere,Add Class Annotation,1
+Human,andkulikov/Transitions-Everywhere,Add Class Modifier,1
+Human,andkulikov/Transitions-Everywhere,Add Method Annotation,7
+Human,andkulikov/Transitions-Everywhere,Add Method Modifier,2
+Human,andkulikov/Transitions-Everywhere,Add Parameter,22
+Human,andkulikov/Transitions-Everywhere,Add Parameter Modifier,1
+Human,andkulikov/Transitions-Everywhere,Change Attribute Access Modifier,9
+Human,andkulikov/Transitions-Everywhere,Change Attribute Type,11
+Human,andkulikov/Transitions-Everywhere,Change Class Access Modifier,7
+Human,andkulikov/Transitions-Everywhere,Change Method Access Modifier,2
+Human,andkulikov/Transitions-Everywhere,Change Parameter Type,10
+Human,andkulikov/Transitions-Everywhere,Change Return Type,6
+Human,andkulikov/Transitions-Everywhere,Change Variable Type,16
+Human,andkulikov/Transitions-Everywhere,Encapsulate Attribute,1
+Human,andkulikov/Transitions-Everywhere,Extract And Move Method,5
+Human,andkulikov/Transitions-Everywhere,Extract Method,9
+Human,andkulikov/Transitions-Everywhere,Extract Superclass,2
+Human,andkulikov/Transitions-Everywhere,Extract Variable,8
+Human,andkulikov/Transitions-Everywhere,Inline Variable,6
+Human,andkulikov/Transitions-Everywhere,Invert Condition,3
+Human,andkulikov/Transitions-Everywhere,Localize Parameter,3
+Human,andkulikov/Transitions-Everywhere,Merge Conditional,6
+Human,andkulikov/Transitions-Everywhere,Merge Package,2
+Human,andkulikov/Transitions-Everywhere,Modify Class Annotation,22
+Human,andkulikov/Transitions-Everywhere,Move And Inline Method,1
+Human,andkulikov/Transitions-Everywhere,Move And Rename Attribute,3
+Human,andkulikov/Transitions-Everywhere,Move And Rename Class,18
+Human,andkulikov/Transitions-Everywhere,Move Attribute,6
+Human,andkulikov/Transitions-Everywhere,Move Class,92
+Human,andkulikov/Transitions-Everywhere,Move Method,7
+Human,andkulikov/Transitions-Everywhere,Move Package,3
+Human,andkulikov/Transitions-Everywhere,Move Source Folder,2
+Human,andkulikov/Transitions-Everywhere,Parameterize Variable,9
+Human,andkulikov/Transitions-Everywhere,Pull Up Method,1
+Human,andkulikov/Transitions-Everywhere,Remove Attribute Modifier,1
+Human,andkulikov/Transitions-Everywhere,Remove Class Modifier,3
+Human,andkulikov/Transitions-Everywhere,Remove Method Annotation,45
+Human,andkulikov/Transitions-Everywhere,Remove Method Modifier,5
+Human,andkulikov/Transitions-Everywhere,Remove Parameter,8
+Human,andkulikov/Transitions-Everywhere,Remove Variable Modifier,2
+Human,andkulikov/Transitions-Everywhere,Rename Attribute,2
+Human,andkulikov/Transitions-Everywhere,Rename Class,12
+Human,andkulikov/Transitions-Everywhere,Rename Method,5
+Human,andkulikov/Transitions-Everywhere,Rename Variable,13
+Human,andkulikov/Transitions-Everywhere,Reorder Parameter,1
+Human,andkulikov/Transitions-Everywhere,Replace Variable With Attribute,3
+Human,andkulikov/Transitions-Everywhere,Split Package,1
+Human,avast/android-butterknife-zelezny,Add Parameter,3
+Human,avast/android-butterknife-zelezny,Encapsulate Attribute,1
+Human,avast/android-butterknife-zelezny,Extract And Move Method,1
+Human,avast/android-butterknife-zelezny,Extract Method,3
+Human,avast/android-butterknife-zelezny,Extract Variable,1
+Human,avast/android-butterknife-zelezny,Inline Variable,2
+Human,bilibili/DanmakuFlameMaster,Add Attribute Annotation,1
+Human,bilibili/DanmakuFlameMaster,Add Attribute Modifier,3
+Human,bilibili/DanmakuFlameMaster,Add Method Annotation,2
+Human,bilibili/DanmakuFlameMaster,Add Method Modifier,12
+Human,bilibili/DanmakuFlameMaster,Add Parameter,29
+Human,bilibili/DanmakuFlameMaster,Add Thrown Exception Type,3
+Human,bilibili/DanmakuFlameMaster,Add Variable Modifier,3
+Human,bilibili/DanmakuFlameMaster,Change Attribute Access Modifier,7
+Human,bilibili/DanmakuFlameMaster,Change Attribute Type,17
+Human,bilibili/DanmakuFlameMaster,Change Method Access Modifier,5
+Human,bilibili/DanmakuFlameMaster,Change Parameter Type,18
+Human,bilibili/DanmakuFlameMaster,Change Return Type,33
+Human,bilibili/DanmakuFlameMaster,Change Variable Type,11
+Human,bilibili/DanmakuFlameMaster,Encapsulate Attribute,4
+Human,bilibili/DanmakuFlameMaster,Extract And Move Method,9
+Human,bilibili/DanmakuFlameMaster,Extract Attribute,2
+Human,bilibili/DanmakuFlameMaster,Extract Class,4
+Human,bilibili/DanmakuFlameMaster,Extract Interface,2
+Human,bilibili/DanmakuFlameMaster,Extract Method,32
+Human,bilibili/DanmakuFlameMaster,Extract Superclass,2
+Human,bilibili/DanmakuFlameMaster,Extract Variable,18
+Human,bilibili/DanmakuFlameMaster,Inline Variable,13
+Human,bilibili/DanmakuFlameMaster,Invert Condition,5
+Human,bilibili/DanmakuFlameMaster,Merge Conditional,15
+Human,bilibili/DanmakuFlameMaster,Move And Rename Class,1
+Human,bilibili/DanmakuFlameMaster,Move And Rename Method,1
+Human,bilibili/DanmakuFlameMaster,Move Attribute,1
+Human,bilibili/DanmakuFlameMaster,Move Class,2
+Human,bilibili/DanmakuFlameMaster,Move Code,1
+Human,bilibili/DanmakuFlameMaster,Move Method,6
+Human,bilibili/DanmakuFlameMaster,Parameterize Attribute,4
+Human,bilibili/DanmakuFlameMaster,Parameterize Variable,3
+Human,bilibili/DanmakuFlameMaster,Pull Up Attribute,5
+Human,bilibili/DanmakuFlameMaster,Remove Attribute Annotation,1
+Human,bilibili/DanmakuFlameMaster,Remove Attribute Modifier,11
+Human,bilibili/DanmakuFlameMaster,Remove Method Annotation,2
+Human,bilibili/DanmakuFlameMaster,Remove Method Modifier,12
+Human,bilibili/DanmakuFlameMaster,Remove Parameter,5
+Human,bilibili/DanmakuFlameMaster,Rename Attribute,10
+Human,bilibili/DanmakuFlameMaster,Rename Class,4
+Human,bilibili/DanmakuFlameMaster,Rename Method,17
+Human,bilibili/DanmakuFlameMaster,Rename Parameter,10
+Human,bilibili/DanmakuFlameMaster,Rename Variable,4
+Human,bilibili/DanmakuFlameMaster,Replace Attribute With Variable,3
+Human,bilibili/DanmakuFlameMaster,Replace Generic With Diamond,2
+Human,bilibili/DanmakuFlameMaster,Replace Variable With Attribute,2
+Human,bilibili/DanmakuFlameMaster,Split Conditional,7
+Human,bilibili/boxing,Add Parameter,12
+Human,bilibili/boxing,Change Method Access Modifier,1
+Human,bilibili/boxing,Extract Superclass,1
+Human,bilibili/boxing,Extract Variable,5
+Human,bilibili/boxing,Move And Rename Method,1
+Human,chrisbanes/ActionBar-PullToRefresh,Add Attribute Modifier,3
+Human,chrisbanes/ActionBar-PullToRefresh,Change Variable Type,2
+Human,chrisbanes/Android-PullToRefresh,Add Attribute Modifier,2
+Human,chrisbanes/Android-PullToRefresh,Add Parameter,6
+Human,chrisbanes/Android-PullToRefresh,Change Attribute Access Modifier,1
+Human,chrisbanes/Android-PullToRefresh,Change Attribute Type,1
+Human,chrisbanes/Android-PullToRefresh,Change Class Access Modifier,1
+Human,chrisbanes/Android-PullToRefresh,Change Method Access Modifier,1
+Human,chrisbanes/Android-PullToRefresh,Change Parameter Type,2
+Human,chrisbanes/Android-PullToRefresh,Encapsulate Attribute,1
+Human,chrisbanes/Android-PullToRefresh,Extract And Move Method,3
+Human,chrisbanes/Android-PullToRefresh,Extract Method,3
+Human,chrisbanes/Android-PullToRefresh,Extract Variable,2
+Human,chrisbanes/Android-PullToRefresh,Inline Method,3
+Human,chrisbanes/Android-PullToRefresh,Move Source Folder,2
+Human,chrisbanes/Android-PullToRefresh,Remove Attribute Modifier,5
+Human,chrisbanes/Android-PullToRefresh,Rename Attribute,3
+Human,chrisbanes/Android-PullToRefresh,Rename Parameter,1
+Human,chrisbanes/Android-PullToRefresh,Rename Variable,1
+Human,chrisbanes/Android-PullToRefresh,Replace Variable With Attribute,2
+Human,crazycodeboy/TakePhoto,Add Parameter,20
+Human,crazycodeboy/TakePhoto,Extract Variable,1
+Human,crazycodeboy/TakePhoto,Rename Method,1
+Human,cymcsg/UltimateRecyclerView,Add Attribute Modifier,7
+Human,cymcsg/UltimateRecyclerView,Add Class Annotation,7
+Human,cymcsg/UltimateRecyclerView,Add Class Modifier,20
+Human,cymcsg/UltimateRecyclerView,Add Method Annotation,151
+Human,cymcsg/UltimateRecyclerView,Add Method Modifier,129
+Human,cymcsg/UltimateRecyclerView,Add Parameter,77
+Human,cymcsg/UltimateRecyclerView,Add Parameter Annotation,51
+Human,cymcsg/UltimateRecyclerView,Add Parameter Modifier,137
+Human,cymcsg/UltimateRecyclerView,Add Thrown Exception Type,2
+Human,cymcsg/UltimateRecyclerView,Add Variable Modifier,43
+Human,cymcsg/UltimateRecyclerView,Change Attribute Access Modifier,292
+Human,cymcsg/UltimateRecyclerView,Change Attribute Type,154
+Human,cymcsg/UltimateRecyclerView,Change Class Access Modifier,37
+Human,cymcsg/UltimateRecyclerView,Change Method Access Modifier,219
+Human,cymcsg/UltimateRecyclerView,Change Parameter Type,252
+Human,cymcsg/UltimateRecyclerView,Change Return Type,209
+Human,cymcsg/UltimateRecyclerView,Change Variable Type,125
+Human,cymcsg/UltimateRecyclerView,Encapsulate Attribute,11
+Human,cymcsg/UltimateRecyclerView,Extract And Move Method,123
+Human,cymcsg/UltimateRecyclerView,Extract Attribute,15
+Human,cymcsg/UltimateRecyclerView,Extract Class,6
+Human,cymcsg/UltimateRecyclerView,Extract Interface,1
+Human,cymcsg/UltimateRecyclerView,Extract Method,173
+Human,cymcsg/UltimateRecyclerView,Extract Subclass,2
+Human,cymcsg/UltimateRecyclerView,Extract Superclass,19
+Human,cymcsg/UltimateRecyclerView,Extract Variable,68
+Human,cymcsg/UltimateRecyclerView,Inline Method,4
+Human,cymcsg/UltimateRecyclerView,Inline Variable,52
+Human,cymcsg/UltimateRecyclerView,Invert Condition,14
+Human,cymcsg/UltimateRecyclerView,Localize Parameter,1
+Human,cymcsg/UltimateRecyclerView,Merge Class,6
+Human,cymcsg/UltimateRecyclerView,Merge Conditional,6
+Human,cymcsg/UltimateRecyclerView,Move And Rename Class,61
+Human,cymcsg/UltimateRecyclerView,Move And Rename Method,71
+Human,cymcsg/UltimateRecyclerView,Move Attribute,58
+Human,cymcsg/UltimateRecyclerView,Move Class,244
+Human,cymcsg/UltimateRecyclerView,Move Code,4
+Human,cymcsg/UltimateRecyclerView,Move Method,80
+Human,cymcsg/UltimateRecyclerView,Parameterize Attribute,4
+Human,cymcsg/UltimateRecyclerView,Parameterize Variable,19
+Human,cymcsg/UltimateRecyclerView,Pull Up Attribute,46
+Human,cymcsg/UltimateRecyclerView,Pull Up Method,84
+Human,cymcsg/UltimateRecyclerView,Push Down Attribute,1
+Human,cymcsg/UltimateRecyclerView,Push Down Method,4
+Human,cymcsg/UltimateRecyclerView,Remove Attribute Modifier,7
+Human,cymcsg/UltimateRecyclerView,Remove Class Modifier,24
+Human,cymcsg/UltimateRecyclerView,Remove Method Annotation,8
+Human,cymcsg/UltimateRecyclerView,Remove Parameter,67
+Human,cymcsg/UltimateRecyclerView,Remove Parameter Modifier,57
+Human,cymcsg/UltimateRecyclerView,Remove Variable Modifier,1
+Human,cymcsg/UltimateRecyclerView,Rename Attribute,50
+Human,cymcsg/UltimateRecyclerView,Rename Class,59
+Human,cymcsg/UltimateRecyclerView,Rename Method,222
+Human,cymcsg/UltimateRecyclerView,Rename Package,30
+Human,cymcsg/UltimateRecyclerView,Rename Parameter,154
+Human,cymcsg/UltimateRecyclerView,Rename Variable,69
+Human,cymcsg/UltimateRecyclerView,Replace Anonymous With Class,2
+Human,cymcsg/UltimateRecyclerView,Replace Conditional With Ternary,4
+Human,cymcsg/UltimateRecyclerView,Replace Generic With Diamond,7
+Human,cymcsg/UltimateRecyclerView,Replace Variable With Attribute,3
+Human,cymcsg/UltimateRecyclerView,Split Conditional,30
+Human,cymcsg/UltimateRecyclerView,Split Method,2
+Human,daimajia/NumberProgressBar,Add Parameter,4
+Human,daimajia/NumberProgressBar,Encapsulate Attribute,3
+Human,daimajia/NumberProgressBar,Extract Method,1
+Human,daimajia/NumberProgressBar,Inline Method,1
+Human,daimajia/NumberProgressBar,Rename Attribute,6
+Human,daimajia/NumberProgressBar,Rename Method,4
+Human,daimajia/NumberProgressBar,Rename Parameter,7
+Human,dm77/barcodescanner,Add Method Annotation,23
+Human,dm77/barcodescanner,Add Method Modifier,1
+Human,dm77/barcodescanner,Add Parameter,6
+Human,dm77/barcodescanner,Add Variable Modifier,1
+Human,dm77/barcodescanner,Change Attribute Type,3
+Human,dm77/barcodescanner,Change Method Access Modifier,1
+Human,dm77/barcodescanner,Change Parameter Type,6
+Human,dm77/barcodescanner,Encapsulate Attribute,3
+Human,dm77/barcodescanner,Extract Attribute,5
+Human,dm77/barcodescanner,Extract Interface,1
+Human,dm77/barcodescanner,Extract Method,3
+Human,dm77/barcodescanner,Extract Superclass,2
+Human,dm77/barcodescanner,Extract Variable,6
+Human,dm77/barcodescanner,Invert Condition,2
+Human,dm77/barcodescanner,Move Method,2
+Human,dm77/barcodescanner,Move Source Folder,7
+Human,dm77/barcodescanner,Remove Parameter,1
+Human,dm77/barcodescanner,Rename Attribute,3
+Human,dm77/barcodescanner,Rename Class,6
+Human,dm77/barcodescanner,Rename Method,2
+Human,dm77/barcodescanner,Rename Parameter,5
+Human,dm77/barcodescanner,Rename Variable,1
+Human,dm77/barcodescanner,Replace Attribute With Variable,3
+Human,dm77/barcodescanner,Replace Generic With Diamond,10
+Human,dm77/barcodescanner,Replace Variable With Attribute,6
+Human,facebookarchive/network-connection-class,Add Parameter,1
+Human,facebookarchive/network-connection-class,Change Attribute Access Modifier,4
+Human,facebookarchive/network-connection-class,Change Attribute Type,1
+Human,facebookarchive/network-connection-class,Change Method Access Modifier,2
+Human,facebookarchive/network-connection-class,Extract And Move Method,1
+Human,facebookarchive/network-connection-class,Extract Method,1
+Human,facebookarchive/network-connection-class,Extract Variable,1
+Human,facebookarchive/network-connection-class,Move Attribute,2
+Human,facebookarchive/network-connection-class,Move Code,3
+Human,facebookarchive/network-connection-class,Move Method,2
+Human,facebookarchive/network-connection-class,Remove Parameter,1
+Human,facebookarchive/network-connection-class,Rename Method,1
+Human,facebookarchive/rebound,Add Attribute Modifier,5
+Human,facebookarchive/rebound,Add Class Modifier,1
+Human,facebookarchive/rebound,Add Method Annotation,3
+Human,facebookarchive/rebound,Add Parameter,1
+Human,facebookarchive/rebound,Change Attribute Access Modifier,2
+Human,facebookarchive/rebound,Change Attribute Type,9
+Human,facebookarchive/rebound,Change Class Access Modifier,1
+Human,facebookarchive/rebound,Change Method Access Modifier,2
+Human,facebookarchive/rebound,Change Parameter Type,4
+Human,facebookarchive/rebound,Change Type Declaration Kind,1
+Human,facebookarchive/rebound,Extract And Move Method,2
+Human,facebookarchive/rebound,Extract Class,1
+Human,facebookarchive/rebound,Extract Method,1
+Human,facebookarchive/rebound,Extract Subclass,1
+Human,facebookarchive/rebound,Extract Variable,1
+Human,facebookarchive/rebound,Move And Rename Method,1
+Human,facebookarchive/rebound,Move Attribute,6
+Human,facebookarchive/rebound,Move Class,1
+Human,facebookarchive/rebound,Move Method,2
+Human,facebookarchive/rebound,Move Source Folder,6
+Human,facebookarchive/rebound,Push Down Method,2
+Human,facebookarchive/rebound,Remove Class Annotation,3
+Human,facebookarchive/rebound,Remove Method Annotation,1
+Human,facebookarchive/rebound,Remove Method Modifier,6
+Human,facebookarchive/rebound,Remove Parameter,3
+Human,facebookarchive/rebound,Rename Attribute,6
+Human,facebookarchive/rebound,Rename Class,3
+Human,facebookarchive/rebound,Rename Method,4
+Human,facebookarchive/rebound,Rename Parameter,1
+Human,facebookarchive/rebound,Replace Attribute With Variable,2
+Human,florent37/MaterialViewPager,Add Attribute Annotation,3
+Human,florent37/MaterialViewPager,Add Parameter,1
+Human,florent37/MaterialViewPager,Add Variable Modifier,6
+Human,florent37/MaterialViewPager,Change Attribute Access Modifier,36
+Human,florent37/MaterialViewPager,Change Attribute Type,2
+Human,florent37/MaterialViewPager,Change Method Access Modifier,20
+Human,florent37/MaterialViewPager,Change Parameter Type,7
+Human,florent37/MaterialViewPager,Encapsulate Attribute,3
+Human,florent37/MaterialViewPager,Extract Method,7
+Human,florent37/MaterialViewPager,Extract Variable,1
+Human,florent37/MaterialViewPager,Inline Variable,3
+Human,florent37/MaterialViewPager,Move Class,1
+Human,florent37/MaterialViewPager,Move Code,1
+Human,florent37/MaterialViewPager,Remove Attribute Modifier,3
+Human,florent37/MaterialViewPager,Remove Parameter,3
+Human,florent37/MaterialViewPager,Rename Attribute,1
+Human,florent37/MaterialViewPager,Rename Parameter,2
+Human,florent37/MaterialViewPager,Replace Attribute With Variable,1
+Human,frogermcs/InstaMaterial,Add Attribute Annotation,48
+Human,frogermcs/InstaMaterial,Remove Attribute Annotation,48
+Human,geeeeeeeeek/WeChatLuckyMoney,Add Method Annotation,2
+Human,geeeeeeeeek/WeChatLuckyMoney,Add Parameter,6
+Human,geeeeeeeeek/WeChatLuckyMoney,Add Variable Modifier,5
+Human,geeeeeeeeek/WeChatLuckyMoney,Change Attribute Access Modifier,6
+Human,geeeeeeeeek/WeChatLuckyMoney,Change Attribute Type,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Change Method Access Modifier,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Change Parameter Type,2
+Human,geeeeeeeeek/WeChatLuckyMoney,Change Return Type,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Extract And Move Method,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Extract Class,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Extract Method,24
+Human,geeeeeeeeek/WeChatLuckyMoney,Extract Variable,7
+Human,geeeeeeeeek/WeChatLuckyMoney,Inline Variable,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Invert Condition,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Merge Conditional,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Modify Method Annotation,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Move Attribute,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Move Class,7
+Human,geeeeeeeeek/WeChatLuckyMoney,Move Method,2
+Human,geeeeeeeeek/WeChatLuckyMoney,Move Package,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Parameterize Variable,2
+Human,geeeeeeeeek/WeChatLuckyMoney,Remove Attribute Modifier,2
+Human,geeeeeeeeek/WeChatLuckyMoney,Remove Method Annotation,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Remove Parameter,4
+Human,geeeeeeeeek/WeChatLuckyMoney,Remove Variable Modifier,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Rename Attribute,9
+Human,geeeeeeeeek/WeChatLuckyMoney,Rename Method,9
+Human,geeeeeeeeek/WeChatLuckyMoney,Rename Variable,13
+Human,geeeeeeeeek/WeChatLuckyMoney,Replace Attribute With Variable,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Replace Generic With Diamond,1
+Human,geeeeeeeeek/WeChatLuckyMoney,Replace Variable With Attribute,3
+Human,go-lang-plugin-org/go-lang-idea-plugin,Add Attribute Modifier,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Add Method Annotation,2
+Human,go-lang-plugin-org/go-lang-idea-plugin,Add Parameter Annotation,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Change Attribute Type,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Change Method Access Modifier,2
+Human,go-lang-plugin-org/go-lang-idea-plugin,Change Variable Type,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Extract Method,5
+Human,go-lang-plugin-org/go-lang-idea-plugin,Extract Superclass,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Extract Variable,5
+Human,go-lang-plugin-org/go-lang-idea-plugin,Inline Variable,4
+Human,go-lang-plugin-org/go-lang-idea-plugin,Invert Condition,2
+Human,go-lang-plugin-org/go-lang-idea-plugin,Merge Conditional,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Move And Inline Method,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Move Method,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Pull Up Method,4
+Human,go-lang-plugin-org/go-lang-idea-plugin,Remove Method Annotation,2
+Human,go-lang-plugin-org/go-lang-idea-plugin,Remove Parameter Annotation,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Rename Method,9
+Human,go-lang-plugin-org/go-lang-idea-plugin,Rename Variable,1
+Human,go-lang-plugin-org/go-lang-idea-plugin,Split Conditional,3
+Human,grantland/android-autofittextview,Add Method Modifier,1
+Human,grantland/android-autofittextview,Add Parameter,6
+Human,grantland/android-autofittextview,Extract And Move Method,8
+Human,grantland/android-autofittextview,Extract Class,2
+Human,grantland/android-autofittextview,Move And Rename Method,2
+Human,grantland/android-autofittextview,Move Attribute,8
+Human,grantland/android-autofittextview,Move Method,5
+Human,grantland/android-autofittextview,Remove Method Annotation,2
+Human,grantland/android-autofittextview,Rename Parameter,3
+Human,hongyangAndroid/AndroidAutoLayout,Extract Superclass,1
+Human,hongyangAndroid/FlowLayout,Change Attribute Type,1
+Human,hongyangAndroid/FlowLayout,Extract Method,1
+Human,hongyangAndroid/FlowLayout,Replace Variable With Attribute,1
+Human,ikew0ng/SwipeBackLayout,Change Attribute Access Modifier,1
+Human,ikew0ng/SwipeBackLayout,Change Method Access Modifier,1
+Human,ikew0ng/SwipeBackLayout,Extract And Move Method,1
+Human,ikew0ng/SwipeBackLayout,Extract Method,1
+Human,ikew0ng/SwipeBackLayout,Extract Variable,4
+Human,ikew0ng/SwipeBackLayout,Rename Attribute,1
+Human,ikew0ng/SwipeBackLayout,Rename Method,1
+Human,jeasonlzy/ImagePicker,Change Attribute Type,4
+Human,jeasonlzy/ImagePicker,Extract And Move Method,1
+Human,jeasonlzy/ImagePicker,Extract Interface,1
+Human,jeasonlzy/ImagePicker,Extract Variable,1
+Human,jeasonlzy/ImagePicker,Move And Rename Method,1
+Human,jeasonlzy/ImagePicker,Rename Attribute,3
+Human,jeasonlzy/ImagePicker,Rename Variable,1
+Human,jgilfelt/SystemBarTint,Add Attribute Modifier,10
+Human,jgilfelt/SystemBarTint,Add Class Modifier,1
+Human,lgvalle/Material-Animations,Add Attribute Modifier,10
+Human,lgvalle/Material-Animations,Add Parameter,2
+Human,lgvalle/Material-Animations,Add Parameter Annotation,2
+Human,lgvalle/Material-Animations,Change Attribute Access Modifier,11
+Human,lgvalle/Material-Animations,Change Class Access Modifier,2
+Human,lgvalle/Material-Animations,Change Method Access Modifier,8
+Human,lgvalle/Material-Animations,Change Return Type,2
+Human,lgvalle/Material-Animations,Change Variable Type,9
+Human,lgvalle/Material-Animations,Extract Method,7
+Human,lgvalle/Material-Animations,Extract Superclass,2
+Human,lgvalle/Material-Animations,Extract Variable,1
+Human,lgvalle/Material-Animations,Inline Method,1
+Human,lgvalle/Material-Animations,Inline Variable,2
+Human,lgvalle/Material-Animations,Move And Rename Method,1
+Human,lgvalle/Material-Animations,Move Attribute,3
+Human,lgvalle/Material-Animations,Move Method,14
+Human,lgvalle/Material-Animations,Parameterize Variable,1
+Human,lgvalle/Material-Animations,Pull Up Method,2
+Human,lgvalle/Material-Animations,Remove Class Annotation,4
+Human,lgvalle/Material-Animations,Remove Parameter,3
+Human,lgvalle/Material-Animations,Rename Class,2
+Human,lgvalle/Material-Animations,Rename Variable,4
+Human,lgvalle/Material-Animations,Replace Attribute With Variable,1
+Human,lgvalle/Material-Animations,Replace Variable With Attribute,1
+Human,lipangit/JiaoZiVideoPlayer,Add Attribute Annotation,2
+Human,lipangit/JiaoZiVideoPlayer,Add Attribute Modifier,18
+Human,lipangit/JiaoZiVideoPlayer,Add Class Annotation,1
+Human,lipangit/JiaoZiVideoPlayer,Add Class Modifier,2
+Human,lipangit/JiaoZiVideoPlayer,Add Method Annotation,3
+Human,lipangit/JiaoZiVideoPlayer,Add Method Modifier,8
+Human,lipangit/JiaoZiVideoPlayer,Add Parameter,26
+Human,lipangit/JiaoZiVideoPlayer,Add Parameter Annotation,4
+Human,lipangit/JiaoZiVideoPlayer,Add Parameter Modifier,3
+Human,lipangit/JiaoZiVideoPlayer,Add Variable Modifier,1
+Human,lipangit/JiaoZiVideoPlayer,Change Attribute Access Modifier,126
+Human,lipangit/JiaoZiVideoPlayer,Change Attribute Type,25
+Human,lipangit/JiaoZiVideoPlayer,Change Class Access Modifier,12
+Human,lipangit/JiaoZiVideoPlayer,Change Method Access Modifier,84
+Human,lipangit/JiaoZiVideoPlayer,Change Parameter Type,11
+Human,lipangit/JiaoZiVideoPlayer,Change Return Type,10
+Human,lipangit/JiaoZiVideoPlayer,Change Variable Type,7
+Human,lipangit/JiaoZiVideoPlayer,Extract And Move Method,45
+Human,lipangit/JiaoZiVideoPlayer,Extract Class,5
+Human,lipangit/JiaoZiVideoPlayer,Extract Method,90
+Human,lipangit/JiaoZiVideoPlayer,Extract Subclass,3
+Human,lipangit/JiaoZiVideoPlayer,Extract Variable,11
+Human,lipangit/JiaoZiVideoPlayer,Inline Method,8
+Human,lipangit/JiaoZiVideoPlayer,Invert Condition,5
+Human,lipangit/JiaoZiVideoPlayer,Merge Attribute,1
+Human,lipangit/JiaoZiVideoPlayer,Merge Conditional,4
+Human,lipangit/JiaoZiVideoPlayer,Merge Parameter,1
+Human,lipangit/JiaoZiVideoPlayer,Move And Inline Method,5
+Human,lipangit/JiaoZiVideoPlayer,Move And Rename Attribute,3
+Human,lipangit/JiaoZiVideoPlayer,Move Attribute,12
+Human,lipangit/JiaoZiVideoPlayer,Move Class,5
+Human,lipangit/JiaoZiVideoPlayer,Move Code,19
+Human,lipangit/JiaoZiVideoPlayer,Move Method,15
+Human,lipangit/JiaoZiVideoPlayer,Pull Up Attribute,8
+Human,lipangit/JiaoZiVideoPlayer,Pull Up Method,8
+Human,lipangit/JiaoZiVideoPlayer,Push Down Attribute,13
+Human,lipangit/JiaoZiVideoPlayer,Push Down Method,17
+Human,lipangit/JiaoZiVideoPlayer,Remove Attribute Modifier,1
+Human,lipangit/JiaoZiVideoPlayer,Remove Method Annotation,4
+Human,lipangit/JiaoZiVideoPlayer,Remove Method Modifier,2
+Human,lipangit/JiaoZiVideoPlayer,Remove Parameter,19
+Human,lipangit/JiaoZiVideoPlayer,Remove Variable Modifier,4
+Human,lipangit/JiaoZiVideoPlayer,Rename Attribute,93
+Human,lipangit/JiaoZiVideoPlayer,Rename Class,30
+Human,lipangit/JiaoZiVideoPlayer,Rename Method,97
+Human,lipangit/JiaoZiVideoPlayer,Rename Package,1
+Human,lipangit/JiaoZiVideoPlayer,Rename Parameter,9
+Human,lipangit/JiaoZiVideoPlayer,Rename Variable,7
+Human,lipangit/JiaoZiVideoPlayer,Replace Anonymous With Class,5
+Human,lipangit/JiaoZiVideoPlayer,Replace Attribute With Variable,7
+Human,lipangit/JiaoZiVideoPlayer,Split Class,1
+Human,lipangit/JiaoZiVideoPlayer,Split Method,4
+Human,lucasr/twoway-view,Add Parameter,4
+Human,lucasr/twoway-view,Extract Method,8
+Human,lucasr/twoway-view,Inline Variable,1
+Human,lucasr/twoway-view,Rename Attribute,2
+Human,lucasr/twoway-view,Rename Variable,5
+Human,luojilab/DDComponentForAndroid,Add Attribute Annotation,2
+Human,luojilab/DDComponentForAndroid,Add Attribute Modifier,8
+Human,luojilab/DDComponentForAndroid,Add Class Annotation,10
+Human,luojilab/DDComponentForAndroid,Add Class Modifier,4
+Human,luojilab/DDComponentForAndroid,Add Method Annotation,4
+Human,luojilab/DDComponentForAndroid,Add Parameter Annotation,2
+Human,luojilab/DDComponentForAndroid,Change Attribute Access Modifier,6
+Human,luojilab/DDComponentForAndroid,Change Attribute Type,6
+Human,luojilab/DDComponentForAndroid,Change Return Type,2
+Human,luojilab/DDComponentForAndroid,Change Type Declaration Kind,2
+Human,luojilab/DDComponentForAndroid,Change Variable Type,6
+Human,luojilab/DDComponentForAndroid,Extract Method,4
+Human,luojilab/DDComponentForAndroid,Extract Variable,4
+Human,luojilab/DDComponentForAndroid,Modify Class Annotation,6
+Human,luojilab/DDComponentForAndroid,Move Attribute,2
+Human,luojilab/DDComponentForAndroid,Move Class,6
+Human,luojilab/DDComponentForAndroid,Move Package,2
+Human,luojilab/DDComponentForAndroid,Move Source Folder,8
+Human,luojilab/DDComponentForAndroid,Remove Attribute Annotation,2
+Human,luojilab/DDComponentForAndroid,Remove Class Annotation,6
+Human,luojilab/DDComponentForAndroid,Rename Attribute,4
+Human,luojilab/DDComponentForAndroid,Rename Class,6
+Human,luojilab/DDComponentForAndroid,Rename Method,12
+Human,luojilab/DDComponentForAndroid,Rename Variable,8
+Human,luojilab/DDComponentForAndroid,Replace Generic With Diamond,4
+Human,luojilab/DDComponentForAndroid,Split Attribute,2
+Human,luojilab/DDComponentForAndroid,Split Parameter,2
+Human,nathanmarz/storm,Add Attribute Modifier,291
+Human,nathanmarz/storm,Add Method Annotation,1
+Human,nathanmarz/storm,Add Method Modifier,4
+Human,nathanmarz/storm,Add Parameter,31
+Human,nathanmarz/storm,Add Thrown Exception Type,2
+Human,nathanmarz/storm,Change Attribute Access Modifier,22
+Human,nathanmarz/storm,Change Attribute Type,20
+Human,nathanmarz/storm,Change Class Access Modifier,5
+Human,nathanmarz/storm,Change Method Access Modifier,2
+Human,nathanmarz/storm,Change Parameter Type,14
+Human,nathanmarz/storm,Change Return Type,24
+Human,nathanmarz/storm,Change Type Declaration Kind,1
+Human,nathanmarz/storm,Change Variable Type,35
+Human,nathanmarz/storm,Encapsulate Attribute,5
+Human,nathanmarz/storm,Extract And Move Method,2
+Human,nathanmarz/storm,Extract Class,3
+Human,nathanmarz/storm,Extract Interface,3
+Human,nathanmarz/storm,Extract Method,17
+Human,nathanmarz/storm,Extract Variable,16
+Human,nathanmarz/storm,Inline Variable,2
+Human,nathanmarz/storm,Merge Variable,2
+Human,nathanmarz/storm,Move And Inline Method,1
+Human,nathanmarz/storm,Move And Rename Method,2
+Human,nathanmarz/storm,Move Attribute,7
+Human,nathanmarz/storm,Move Class,2
+Human,nathanmarz/storm,Move Method,4
+Human,nathanmarz/storm,Move Source Folder,6
+Human,nathanmarz/storm,Parameterize Variable,1
+Human,nathanmarz/storm,Remove Attribute Modifier,2
+Human,nathanmarz/storm,Remove Method Annotation,10
+Human,nathanmarz/storm,Remove Parameter,8
+Human,nathanmarz/storm,Rename Attribute,6
+Human,nathanmarz/storm,Rename Class,2
+Human,nathanmarz/storm,Rename Method,7
+Human,nathanmarz/storm,Rename Parameter,8
+Human,nathanmarz/storm,Rename Variable,8
+Human,nathanmarz/storm,Replace Attribute With Variable,1
+Human,nhaarman/ListViewAnimations,Add Attribute Annotation,7
+Human,nhaarman/ListViewAnimations,Add Attribute Modifier,4
+Human,nhaarman/ListViewAnimations,Add Class Annotation,2
+Human,nhaarman/ListViewAnimations,Add Class Modifier,1
+Human,nhaarman/ListViewAnimations,Add Method Annotation,5
+Human,nhaarman/ListViewAnimations,Add Method Modifier,1
+Human,nhaarman/ListViewAnimations,Add Parameter,19
+Human,nhaarman/ListViewAnimations,Add Parameter Annotation,7
+Human,nhaarman/ListViewAnimations,Add Parameter Modifier,2
+Human,nhaarman/ListViewAnimations,Add Variable Modifier,1
+Human,nhaarman/ListViewAnimations,Change Attribute Access Modifier,9
+Human,nhaarman/ListViewAnimations,Change Attribute Type,33
+Human,nhaarman/ListViewAnimations,Change Class Access Modifier,4
+Human,nhaarman/ListViewAnimations,Change Method Access Modifier,42
+Human,nhaarman/ListViewAnimations,Change Parameter Type,40
+Human,nhaarman/ListViewAnimations,Change Return Type,11
+Human,nhaarman/ListViewAnimations,Change Variable Type,19
+Human,nhaarman/ListViewAnimations,Encapsulate Attribute,3
+Human,nhaarman/ListViewAnimations,Extract And Move Method,20
+Human,nhaarman/ListViewAnimations,Extract Class,10
+Human,nhaarman/ListViewAnimations,Extract Interface,1
+Human,nhaarman/ListViewAnimations,Extract Method,26
+Human,nhaarman/ListViewAnimations,Extract Superclass,12
+Human,nhaarman/ListViewAnimations,Extract Variable,9
+Human,nhaarman/ListViewAnimations,Inline Method,3
+Human,nhaarman/ListViewAnimations,Inline Variable,4
+Human,nhaarman/ListViewAnimations,Invert Condition,1
+Human,nhaarman/ListViewAnimations,Localize Parameter,1
+Human,nhaarman/ListViewAnimations,Merge Parameter,2
+Human,nhaarman/ListViewAnimations,Move And Rename Attribute,1
+Human,nhaarman/ListViewAnimations,Move And Rename Method,7
+Human,nhaarman/ListViewAnimations,Move Attribute,32
+Human,nhaarman/ListViewAnimations,Move Class,32
+Human,nhaarman/ListViewAnimations,Move Method,30
+Human,nhaarman/ListViewAnimations,Move Source Folder,9
+Human,nhaarman/ListViewAnimations,Parameterize Attribute,9
+Human,nhaarman/ListViewAnimations,Parameterize Variable,4
+Human,nhaarman/ListViewAnimations,Pull Up Attribute,27
+Human,nhaarman/ListViewAnimations,Pull Up Method,26
+Human,nhaarman/ListViewAnimations,Remove Attribute Annotation,3
+Human,nhaarman/ListViewAnimations,Remove Attribute Modifier,1
+Human,nhaarman/ListViewAnimations,Remove Class Annotation,1
+Human,nhaarman/ListViewAnimations,Remove Class Modifier,3
+Human,nhaarman/ListViewAnimations,Remove Method Annotation,7
+Human,nhaarman/ListViewAnimations,Remove Method Modifier,1
+Human,nhaarman/ListViewAnimations,Remove Parameter,14
+Human,nhaarman/ListViewAnimations,Remove Parameter Modifier,1
+Human,nhaarman/ListViewAnimations,Remove Variable Modifier,1
+Human,nhaarman/ListViewAnimations,Rename Attribute,7
+Human,nhaarman/ListViewAnimations,Rename Method,5
+Human,nhaarman/ListViewAnimations,Rename Package,3
+Human,nhaarman/ListViewAnimations,Rename Parameter,28
+Human,nhaarman/ListViewAnimations,Rename Variable,11
+Human,nhaarman/ListViewAnimations,Replace Attribute With Variable,3
+Human,nhaarman/ListViewAnimations,Replace Variable With Attribute,3
+Human,nhaarman/ListViewAnimations,Split Conditional,1
+Human,nicolasgramlich/AndEngine,Add Attribute Modifier,4
+Human,nicolasgramlich/AndEngine,Add Class Modifier,3
+Human,nicolasgramlich/AndEngine,Add Method Annotation,4
+Human,nicolasgramlich/AndEngine,Add Method Modifier,22
+Human,nicolasgramlich/AndEngine,Add Parameter Modifier,3
+Human,nicolasgramlich/AndEngine,Add Variable Modifier,2
+Human,nicolasgramlich/AndEngine,Change Attribute Access Modifier,17
+Human,nicolasgramlich/AndEngine,Change Attribute Type,5
+Human,nicolasgramlich/AndEngine,Change Class Access Modifier,2
+Human,nicolasgramlich/AndEngine,Change Method Access Modifier,10
+Human,nicolasgramlich/AndEngine,Change Parameter Type,20
+Human,nicolasgramlich/AndEngine,Change Return Type,2
+Human,nicolasgramlich/AndEngine,Change Variable Type,5
+Human,nicolasgramlich/AndEngine,Encapsulate Attribute,8
+Human,nicolasgramlich/AndEngine,Extract And Move Method,5
+Human,nicolasgramlich/AndEngine,Extract Method,10
+Human,nicolasgramlich/AndEngine,Extract Variable,1
+Human,nicolasgramlich/AndEngine,Inline Method,1
+Human,nicolasgramlich/AndEngine,Move And Rename Class,10
+Human,nicolasgramlich/AndEngine,Move And Rename Method,1
+Human,nicolasgramlich/AndEngine,Parameterize Variable,1
+Human,nicolasgramlich/AndEngine,Pull Up Attribute,1
+Human,nicolasgramlich/AndEngine,Pull Up Method,6
+Human,nicolasgramlich/AndEngine,Remove Attribute Modifier,6
+Human,nicolasgramlich/AndEngine,Remove Method Annotation,1
+Human,nicolasgramlich/AndEngine,Remove Method Modifier,5
+Human,nicolasgramlich/AndEngine,Rename Attribute,23
+Human,nicolasgramlich/AndEngine,Rename Class,1
+Human,nicolasgramlich/AndEngine,Rename Method,25
+Human,nicolasgramlich/AndEngine,Rename Parameter,47
+Human,nicolasgramlich/AndEngine,Rename Variable,6
+Human,nytimes/Store,Add Class Annotation,1
+Human,nytimes/Store,Add Method Annotation,21
+Human,nytimes/Store,Add Method Modifier,4
+Human,nytimes/Store,Add Parameter,2
+Human,nytimes/Store,Add Parameter Annotation,23
+Human,nytimes/Store,Add Thrown Exception Type,15
+Human,nytimes/Store,Change Attribute Access Modifier,1
+Human,nytimes/Store,Change Attribute Type,5
+Human,nytimes/Store,Change Method Access Modifier,4
+Human,nytimes/Store,Change Parameter Type,3
+Human,nytimes/Store,Change Return Type,59
+Human,nytimes/Store,Change Variable Type,14
+Human,nytimes/Store,Extract And Move Method,1
+Human,nytimes/Store,Extract Attribute,1
+Human,nytimes/Store,Extract Class,1
+Human,nytimes/Store,Extract Method,1
+Human,nytimes/Store,Extract Variable,1
+Human,nytimes/Store,Inline Variable,1
+Human,nytimes/Store,Modify Method Annotation,1
+Human,nytimes/Store,Move Class,237
+Human,nytimes/Store,Move Method,4
+Human,nytimes/Store,Remove Class Annotation,1
+Human,nytimes/Store,Remove Method Annotation,9
+Human,nytimes/Store,Remove Parameter Annotation,10
+Human,nytimes/Store,Remove Thrown Exception Type,1
+Human,nytimes/Store,Rename Attribute,1
+Human,nytimes/Store,Rename Method,14
+Human,nytimes/Store,Rename Package,5
+Human,nytimes/Store,Rename Parameter,9
+Human,nytimes/Store,Rename Variable,1
+Human,nytimes/Store,Replace Anonymous With Lambda,35
+Human,nytimes/Store,Split Attribute,1
+Human,nytimes/Store,Split Parameter,1
+Human,ogaclejapan/SmartTabLayout,Change Attribute Type,2
+Human,ogaclejapan/SmartTabLayout,Change Class Access Modifier,1
+Human,ogaclejapan/SmartTabLayout,Change Parameter Type,1
+Human,ogaclejapan/SmartTabLayout,Change Variable Type,1
+Human,ogaclejapan/SmartTabLayout,Encapsulate Attribute,1
+Human,ogaclejapan/SmartTabLayout,Extract And Move Method,1
+Human,ogaclejapan/SmartTabLayout,Extract Variable,1
+Human,ogaclejapan/SmartTabLayout,Invert Condition,1
+Human,ogaclejapan/SmartTabLayout,Remove Parameter Modifier,8
+Human,ogaclejapan/SmartTabLayout,Rename Attribute,2
+Human,ogaclejapan/SmartTabLayout,Rename Class,3
+Human,ogaclejapan/SmartTabLayout,Rename Method,5
+Human,ogaclejapan/SmartTabLayout,Rename Parameter,1
+Human,ogaclejapan/SmartTabLayout,Rename Variable,5
+Human,ogaclejapan/SmartTabLayout,Replace Variable With Attribute,1
+Human,ogaclejapan/SmartTabLayout,Split Method,1
+Human,pedrovgs/AndroidWiFiADB,Add Attribute Modifier,6
+Human,pedrovgs/AndroidWiFiADB,Add Method Modifier,2
+Human,pedrovgs/AndroidWiFiADB,Add Parameter,2
+Human,pedrovgs/AndroidWiFiADB,Add Parameter Modifier,3
+Human,pedrovgs/AndroidWiFiADB,Change Attribute Access Modifier,7
+Human,pedrovgs/AndroidWiFiADB,Change Attribute Type,3
+Human,pedrovgs/AndroidWiFiADB,Change Method Access Modifier,4
+Human,pedrovgs/AndroidWiFiADB,Change Parameter Type,4
+Human,pedrovgs/AndroidWiFiADB,Change Return Type,3
+Human,pedrovgs/AndroidWiFiADB,Change Variable Type,2
+Human,pedrovgs/AndroidWiFiADB,Encapsulate Attribute,1
+Human,pedrovgs/AndroidWiFiADB,Extract Attribute,7
+Human,pedrovgs/AndroidWiFiADB,Extract Class,5
+Human,pedrovgs/AndroidWiFiADB,Extract Method,6
+Human,pedrovgs/AndroidWiFiADB,Extract Variable,1
+Human,pedrovgs/AndroidWiFiADB,Inline Variable,1
+Human,pedrovgs/AndroidWiFiADB,Move Attribute,5
+Human,pedrovgs/AndroidWiFiADB,Move Class,9
+Human,pedrovgs/AndroidWiFiADB,Move Method,14
+Human,pedrovgs/AndroidWiFiADB,Parameterize Attribute,1
+Human,pedrovgs/AndroidWiFiADB,Remove Attribute Modifier,1
+Human,pedrovgs/AndroidWiFiADB,Remove Parameter,4
+Human,pedrovgs/AndroidWiFiADB,Rename Attribute,4
+Human,pedrovgs/AndroidWiFiADB,Rename Class,3
+Human,pedrovgs/AndroidWiFiADB,Rename Method,3
+Human,pedrovgs/AndroidWiFiADB,Rename Package,1
+Human,pedrovgs/AndroidWiFiADB,Rename Parameter,2
+Human,pedrovgs/AndroidWiFiADB,Rename Variable,23
+Human,rengwuxian/RxJavaSamples,Change Method Access Modifier,1
+Human,roboguice/roboguice,Add Attribute Annotation,51
+Human,roboguice/roboguice,Add Attribute Modifier,2
+Human,roboguice/roboguice,Add Class Annotation,31
+Human,roboguice/roboguice,Add Class Modifier,22
+Human,roboguice/roboguice,Add Method Annotation,122
+Human,roboguice/roboguice,Add Parameter,5
+Human,roboguice/roboguice,Add Thrown Exception Type,10
+Human,roboguice/roboguice,Add Variable Modifier,9
+Human,roboguice/roboguice,Change Attribute Access Modifier,8
+Human,roboguice/roboguice,Change Attribute Type,10
+Human,roboguice/roboguice,Change Method Access Modifier,1
+Human,roboguice/roboguice,Change Parameter Type,24
+Human,roboguice/roboguice,Change Return Type,6
+Human,roboguice/roboguice,Change Variable Type,29
+Human,roboguice/roboguice,Extract And Move Method,4
+Human,roboguice/roboguice,Extract Class,3
+Human,roboguice/roboguice,Extract Method,28
+Human,roboguice/roboguice,Extract Variable,22
+Human,roboguice/roboguice,Inline Variable,7
+Human,roboguice/roboguice,Modify Attribute Annotation,7
+Human,roboguice/roboguice,Modify Class Annotation,20
+Human,roboguice/roboguice,Modify Method Annotation,4
+Human,roboguice/roboguice,Move Attribute,6
+Human,roboguice/roboguice,Move Class,18
+Human,roboguice/roboguice,Move Package,6
+Human,roboguice/roboguice,Move Source Folder,1
+Human,roboguice/roboguice,Parameterize Attribute,5
+Human,roboguice/roboguice,Remove Attribute Annotation,6
+Human,roboguice/roboguice,Remove Attribute Modifier,5
+Human,roboguice/roboguice,Remove Class Annotation,4
+Human,roboguice/roboguice,Remove Class Modifier,2
+Human,roboguice/roboguice,Remove Method Annotation,2
+Human,roboguice/roboguice,Remove Parameter,21
+Human,roboguice/roboguice,Remove Thrown Exception Type,5
+Human,roboguice/roboguice,Rename Attribute,16
+Human,roboguice/roboguice,Rename Class,4
+Human,roboguice/roboguice,Rename Method,11
+Human,roboguice/roboguice,Rename Variable,2
+Human,roboguice/roboguice,Replace Attribute With Variable,3
+Human,roboguice/roboguice,Replace Variable With Attribute,2
+Human,rockerhieu/emojicon,Add Class Modifier,1
+Human,rockerhieu/emojicon,Add Parameter,4
+Human,rockerhieu/emojicon,Change Attribute Type,3
+Human,rockerhieu/emojicon,Change Variable Type,1
+Human,rockerhieu/emojicon,Encapsulate Attribute,1
+Human,rockerhieu/emojicon,Extract Attribute,1
+Human,rockerhieu/emojicon,Extract Method,10
+Human,rockerhieu/emojicon,Extract Variable,3
+Human,rockerhieu/emojicon,Inline Variable,1
+Human,rockerhieu/emojicon,Remove Attribute Modifier,1
+Human,rockerhieu/emojicon,Rename Attribute,1
+Human,rockerhieu/emojicon,Rename Variable,1
+Human,rockerhieu/emojicon,Replace Conditional With Ternary,1
+Human,rockerhieu/emojicon,Replace Variable With Attribute,1
+Human,ryanhoo/StylishMusicPlayer,Add Attribute Annotation,6
+Human,ryanhoo/StylishMusicPlayer,Add Class Annotation,4
+Human,ryanhoo/StylishMusicPlayer,Add Class Modifier,1
+Human,ryanhoo/StylishMusicPlayer,Add Method Annotation,1
+Human,ryanhoo/StylishMusicPlayer,Add Parameter,2
+Human,ryanhoo/StylishMusicPlayer,Add Parameter Modifier,2
+Human,ryanhoo/StylishMusicPlayer,Add Variable Modifier,1
+Human,ryanhoo/StylishMusicPlayer,Change Attribute Access Modifier,1
+Human,ryanhoo/StylishMusicPlayer,Change Attribute Type,6
+Human,ryanhoo/StylishMusicPlayer,Change Class Access Modifier,2
+Human,ryanhoo/StylishMusicPlayer,Change Method Access Modifier,1
+Human,ryanhoo/StylishMusicPlayer,Change Parameter Type,5
+Human,ryanhoo/StylishMusicPlayer,Change Return Type,1
+Human,ryanhoo/StylishMusicPlayer,Change Variable Type,4
+Human,ryanhoo/StylishMusicPlayer,Extract Class,1
+Human,ryanhoo/StylishMusicPlayer,Extract Method,3
+Human,ryanhoo/StylishMusicPlayer,Extract Superclass,2
+Human,ryanhoo/StylishMusicPlayer,Extract Variable,2
+Human,ryanhoo/StylishMusicPlayer,Localize Parameter,1
+Human,ryanhoo/StylishMusicPlayer,Modify Attribute Annotation,1
+Human,ryanhoo/StylishMusicPlayer,Move Attribute,9
+Human,ryanhoo/StylishMusicPlayer,Move Class,1
+Human,ryanhoo/StylishMusicPlayer,Move Method,5
+Human,ryanhoo/StylishMusicPlayer,Parameterize Variable,1
+Human,ryanhoo/StylishMusicPlayer,Remove Method Modifier,1
+Human,ryanhoo/StylishMusicPlayer,Rename Attribute,2
+Human,ryanhoo/StylishMusicPlayer,Rename Class,4
+Human,ryanhoo/StylishMusicPlayer,Rename Method,1
+Human,ryanhoo/StylishMusicPlayer,Rename Parameter,2
+Human,ryanhoo/StylishMusicPlayer,Rename Variable,2
+Human,square/otto,Add Attribute Annotation,1
+Human,square/otto,Add Method Annotation,3
+Human,square/otto,Change Attribute Type,4
+Human,square/otto,Change Parameter Type,1
+Human,square/otto,Encapsulate Attribute,1
+Human,square/otto,Extract Interface,1
+Human,square/otto,Extract Method,3
+Human,square/otto,Extract Variable,4
+Human,square/otto,Remove Variable Modifier,1
+Human,square/sqlbrite,Add Attribute Modifier,4
+Human,square/sqlbrite,Add Class Annotation,4
+Human,square/sqlbrite,Add Class Modifier,2
+Human,square/sqlbrite,Add Method Annotation,30
+Human,square/sqlbrite,Add Method Modifier,6
+Human,square/sqlbrite,Add Parameter,17
+Human,square/sqlbrite,Add Parameter Annotation,5
+Human,square/sqlbrite,Add Thrown Exception Type,3
+Human,square/sqlbrite,Add Variable Modifier,2
+Human,square/sqlbrite,Change Attribute Access Modifier,21
+Human,square/sqlbrite,Change Attribute Type,24
+Human,square/sqlbrite,Change Class Access Modifier,2
+Human,square/sqlbrite,Change Method Access Modifier,8
+Human,square/sqlbrite,Change Parameter Type,34
+Human,square/sqlbrite,Change Return Type,10
+Human,square/sqlbrite,Change Variable Type,50
+Human,square/sqlbrite,Extract And Move Method,4
+Human,square/sqlbrite,Extract Variable,3
+Human,square/sqlbrite,Inline Variable,2
+Human,square/sqlbrite,Localize Parameter,1
+Human,square/sqlbrite,Merge Attribute,1
+Human,square/sqlbrite,Move And Rename Method,11
+Human,square/sqlbrite,Move Attribute,3
+Human,square/sqlbrite,Move Class,31
+Human,square/sqlbrite,Move Code,2
+Human,square/sqlbrite,Parameterize Variable,1
+Human,square/sqlbrite,Remove Attribute Modifier,4
+Human,square/sqlbrite,Remove Class Annotation,4
+Human,square/sqlbrite,Remove Class Modifier,1
+Human,square/sqlbrite,Remove Method Annotation,20
+Human,square/sqlbrite,Remove Parameter,9
+Human,square/sqlbrite,Remove Parameter Annotation,4
+Human,square/sqlbrite,Remove Parameter Modifier,6
+Human,square/sqlbrite,Remove Thrown Exception Type,2
+Human,square/sqlbrite,Remove Variable Modifier,1
+Human,square/sqlbrite,Rename Attribute,4
+Human,square/sqlbrite,Rename Class,1
+Human,square/sqlbrite,Rename Method,17
+Human,square/sqlbrite,Rename Package,2
+Human,square/sqlbrite,Rename Parameter,5
+Human,square/sqlbrite,Rename Variable,6
+Human,square/sqlbrite,Reorder Parameter,2
+Human,square/sqlbrite,Replace Anonymous With Class,1
+Human,square/sqlbrite,Split Conditional,1
+Human,sunfusheng/MarqueeView,Add Parameter,4
+Human,sunfusheng/MarqueeView,Change Attribute Type,2
+Human,sunfusheng/MarqueeView,Change Method Access Modifier,2
+Human,sunfusheng/MarqueeView,Change Parameter Type,6
+Human,sunfusheng/MarqueeView,Change Return Type,2
+Human,sunfusheng/MarqueeView,Change Variable Type,2
+Human,sunfusheng/MarqueeView,Extract Attribute,2
+Human,sunfusheng/MarqueeView,Extract Method,1
+Human,sunfusheng/MarqueeView,Extract Variable,1
+Human,sunfusheng/MarqueeView,Parameterize Attribute,2
+Human,sunfusheng/MarqueeView,Rename Variable,1
+Human,sunfusheng/MarqueeView,Replace Attribute With Variable,2
+Human,tangqi92/Android-Tips,Add Method Annotation,2
+Human,tangqi92/Android-Tips,Add Variable Modifier,6
+Human,tangqi92/Android-Tips,Change Method Access Modifier,2
+Human,tangqi92/Android-Tips,Change Return Type,3
+Human,tangqi92/Android-Tips,Extract Variable,3
+Human,tangqi92/Android-Tips,Inline Method,1
+Human,tangqi92/Android-Tips,Move And Rename Method,2
+Human,tangqi92/Android-Tips,Remove Method Modifier,2
+Human,tangqi92/Android-Tips,Remove Parameter,4
+Human,tangqi92/Android-Tips,Rename Variable,3
+Human,timehop/sticky-headers-recyclerview,Add Method Annotation,1
+Human,timehop/sticky-headers-recyclerview,Add Parameter,19
+Human,timehop/sticky-headers-recyclerview,Add Variable Modifier,2
+Human,timehop/sticky-headers-recyclerview,Change Attribute Type,2
+Human,timehop/sticky-headers-recyclerview,Change Method Access Modifier,2
+Human,timehop/sticky-headers-recyclerview,Change Parameter Type,9
+Human,timehop/sticky-headers-recyclerview,Change Return Type,5
+Human,timehop/sticky-headers-recyclerview,Change Variable Type,10
+Human,timehop/sticky-headers-recyclerview,Extract And Move Method,3
+Human,timehop/sticky-headers-recyclerview,Extract Class,4
+Human,timehop/sticky-headers-recyclerview,Extract Method,7
+Human,timehop/sticky-headers-recyclerview,Extract Superclass,1
+Human,timehop/sticky-headers-recyclerview,Extract Variable,16
+Human,timehop/sticky-headers-recyclerview,Inline Variable,3
+Human,timehop/sticky-headers-recyclerview,Invert Condition,2
+Human,timehop/sticky-headers-recyclerview,Merge Method,1
+Human,timehop/sticky-headers-recyclerview,Move Attribute,1
+Human,timehop/sticky-headers-recyclerview,Move Method,4
+Human,timehop/sticky-headers-recyclerview,Parameterize Variable,3
+Human,timehop/sticky-headers-recyclerview,Remove Parameter,1
+Human,timehop/sticky-headers-recyclerview,Rename Class,3
+Human,timehop/sticky-headers-recyclerview,Rename Method,10
+Human,timehop/sticky-headers-recyclerview,Rename Parameter,3
+Human,timehop/sticky-headers-recyclerview,Rename Variable,15
+Human,timehop/sticky-headers-recyclerview,Reorder Parameter,1
+Human,timehop/sticky-headers-recyclerview,Replace Variable With Attribute,7
+Human,watabou/pixel-dungeon,Add Attribute Modifier,1
+Human,watabou/pixel-dungeon,Add Class Modifier,3
+Human,watabou/pixel-dungeon,Add Method Annotation,3
+Human,watabou/pixel-dungeon,Add Method Modifier,8
+Human,watabou/pixel-dungeon,Add Parameter,10
+Human,watabou/pixel-dungeon,Add Parameter Modifier,2
+Human,watabou/pixel-dungeon,Change Attribute Access Modifier,16
+Human,watabou/pixel-dungeon,Change Attribute Type,14
+Human,watabou/pixel-dungeon,Change Method Access Modifier,11
+Human,watabou/pixel-dungeon,Change Parameter Type,7
+Human,watabou/pixel-dungeon,Change Return Type,33
+Human,watabou/pixel-dungeon,Change Variable Type,6
+Human,watabou/pixel-dungeon,Encapsulate Attribute,3
+Human,watabou/pixel-dungeon,Extract And Move Method,36
+Human,watabou/pixel-dungeon,Extract Attribute,9
+Human,watabou/pixel-dungeon,Extract Class,15
+Human,watabou/pixel-dungeon,Extract Method,27
+Human,watabou/pixel-dungeon,Extract Subclass,1
+Human,watabou/pixel-dungeon,Extract Variable,23
+Human,watabou/pixel-dungeon,Inline Attribute,2
+Human,watabou/pixel-dungeon,Inline Variable,9
+Human,watabou/pixel-dungeon,Localize Parameter,1
+Human,watabou/pixel-dungeon,Merge Attribute,1
+Human,watabou/pixel-dungeon,Merge Conditional,4
+Human,watabou/pixel-dungeon,Move And Inline Method,2
+Human,watabou/pixel-dungeon,Move And Rename Attribute,1
+Human,watabou/pixel-dungeon,Move And Rename Class,2
+Human,watabou/pixel-dungeon,Move Attribute,24
+Human,watabou/pixel-dungeon,Move Class,5
+Human,watabou/pixel-dungeon,Move Code,1
+Human,watabou/pixel-dungeon,Move Method,10
+Human,watabou/pixel-dungeon,Parameterize Attribute,2
+Human,watabou/pixel-dungeon,Parameterize Variable,3
+Human,watabou/pixel-dungeon,Pull Up Attribute,6
+Human,watabou/pixel-dungeon,Pull Up Method,8
+Human,watabou/pixel-dungeon,Push Down Attribute,2
+Human,watabou/pixel-dungeon,Remove Attribute Annotation,1
+Human,watabou/pixel-dungeon,Remove Attribute Modifier,2
+Human,watabou/pixel-dungeon,Remove Class Modifier,4
+Human,watabou/pixel-dungeon,Remove Method Annotation,6
+Human,watabou/pixel-dungeon,Remove Method Modifier,5
+Human,watabou/pixel-dungeon,Remove Parameter,16
+Human,watabou/pixel-dungeon,Rename Attribute,43
+Human,watabou/pixel-dungeon,Rename Class,7
+Human,watabou/pixel-dungeon,Rename Method,16
+Human,watabou/pixel-dungeon,Rename Parameter,1
+Human,watabou/pixel-dungeon,Rename Variable,5
+Human,watabou/pixel-dungeon,Replace Attribute With Variable,12
+Human,watabou/pixel-dungeon,Replace Conditional With Ternary,1
+Human,watabou/pixel-dungeon,Replace Variable With Attribute,3
+Human,watabou/pixel-dungeon,Split Conditional,6
+Human,watabou/pixel-dungeon,Split Method,1
+Human,wendux/DSBridge-Android,Add Class Modifier,1
+Human,wendux/DSBridge-Android,Add Method Annotation,1
+Human,wendux/DSBridge-Android,Add Parameter Modifier,4
+Human,wendux/DSBridge-Android,Change Attribute Access Modifier,5
+Human,wendux/DSBridge-Android,Change Class Access Modifier,1
+Human,wendux/DSBridge-Android,Change Method Access Modifier,2
+Human,wendux/DSBridge-Android,Extract Method,1
+Human,wendux/DSBridge-Android,Rename Attribute,1
+Human,xcc3641/SeeWeather,Extract Method,1
+Human,xcc3641/SeeWeather,Rename Method,3
+Human,xcc3641/SeeWeather,Rename Variable,1
+Human,xcc3641/SeeWeather,Replace Anonymous With Class,1
+Human,ximsfei/Android-skin-support,Add Attribute Modifier,2
+Human,ximsfei/Android-skin-support,Add Class Modifier,3
+Human,ximsfei/Android-skin-support,Add Method Annotation,5
+Human,ximsfei/Android-skin-support,Add Method Modifier,1
+Human,ximsfei/Android-skin-support,Add Parameter,7
+Human,ximsfei/Android-skin-support,Add Parameter Annotation,5
+Human,ximsfei/Android-skin-support,Change Attribute Access Modifier,57
+Human,ximsfei/Android-skin-support,Change Attribute Type,6
+Human,ximsfei/Android-skin-support,Change Class Access Modifier,6
+Human,ximsfei/Android-skin-support,Change Method Access Modifier,14
+Human,ximsfei/Android-skin-support,Change Parameter Type,1
+Human,ximsfei/Android-skin-support,Change Return Type,15
+Human,ximsfei/Android-skin-support,Change Variable Type,6
+Human,ximsfei/Android-skin-support,Encapsulate Attribute,29
+Human,ximsfei/Android-skin-support,Extract And Move Method,5
+Human,ximsfei/Android-skin-support,Extract Class,1
+Human,ximsfei/Android-skin-support,Extract Method,9
+Human,ximsfei/Android-skin-support,Extract Superclass,1
+Human,ximsfei/Android-skin-support,Extract Variable,2
+Human,ximsfei/Android-skin-support,Inline Variable,11
+Human,ximsfei/Android-skin-support,Localize Parameter,2
+Human,ximsfei/Android-skin-support,Move And Rename Class,3
+Human,ximsfei/Android-skin-support,Move And Rename Method,2
+Human,ximsfei/Android-skin-support,Move Class,44
+Human,ximsfei/Android-skin-support,Move Method,1
+Human,ximsfei/Android-skin-support,Move Package,2
+Human,ximsfei/Android-skin-support,Move Source Folder,6
+Human,ximsfei/Android-skin-support,Parameterize Variable,2
+Human,ximsfei/Android-skin-support,Remove Attribute Modifier,26
+Human,ximsfei/Android-skin-support,Remove Class Modifier,2
+Human,ximsfei/Android-skin-support,Remove Parameter,2
+Human,ximsfei/Android-skin-support,Remove Parameter Annotation,1
+Human,ximsfei/Android-skin-support,Rename Attribute,4
+Human,ximsfei/Android-skin-support,Rename Class,12
+Human,ximsfei/Android-skin-support,Rename Method,14
+Human,ximsfei/Android-skin-support,Rename Parameter,3
+Human,ximsfei/Android-skin-support,Rename Variable,7
+Human,ximsfei/Android-skin-support,Replace Attribute With Variable,1
+Human,ximsfei/Android-skin-support,Replace Variable With Attribute,4
+Human,yangfuhai/ASimpleCache,Extract Method,3
+Human,yangfuhai/ASimpleCache,Move And Rename Attribute,3
+Human,yangfuhai/ASimpleCache,Rename Attribute,4
+Human,yangfuhai/afinal,Add Method Annotation,3
+Human,yangfuhai/afinal,Add Method Modifier,9
+Human,yangfuhai/afinal,Add Parameter,13
+Human,yangfuhai/afinal,Change Attribute Type,1
+Human,yangfuhai/afinal,Change Method Access Modifier,2
+Human,yangfuhai/afinal,Change Parameter Type,1
+Human,yangfuhai/afinal,Extract And Move Method,1
+Human,yangfuhai/afinal,Extract Method,4
+Human,yangfuhai/afinal,Rename Method,2
+Human,yangfuhai/afinal,Rename Variable,1
+OpenAI_Codex,2006-Scape/2006Scape,Change Attribute Type,11
+OpenAI_Codex,2006-Scape/2006Scape,Change Parameter Type,2
+OpenAI_Codex,2006-Scape/2006Scape,Change Variable Type,19
+OpenAI_Codex,2006-Scape/2006Scape,Extract Class,2
+OpenAI_Codex,2006-Scape/2006Scape,Extract Method,1
+OpenAI_Codex,2006-Scape/2006Scape,Merge Conditional,1
+OpenAI_Codex,2006-Scape/2006Scape,Rename Attribute,67
+OpenAI_Codex,2006-Scape/2006Scape,Rename Class,5
+OpenAI_Codex,2006-Scape/2006Scape,Rename Method,134
+OpenAI_Codex,2006-Scape/2006Scape,Rename Parameter,80
+OpenAI_Codex,2006-Scape/2006Scape,Rename Variable,73
+OpenAI_Codex,Camelcade/Perl5-IDEA,Add Class Annotation,2
+OpenAI_Codex,Camelcade/Perl5-IDEA,Extract Method,1
+OpenAI_Codex,Camelcade/Perl5-IDEA,Extract Variable,1
+OpenAI_Codex,Camelcade/Perl5-IDEA,Rename Method,3
+OpenAI_Codex,Camelcade/Perl5-IDEA,Rename Variable,2
+OpenAI_Codex,DataDog/dd-trace-java,Extract Variable,1
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Add Thrown Exception Type,2
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Change Parameter Type,1
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Extract Variable,10
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Inline Variable,2
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Rename Parameter,2
+OpenAI_Codex,OpenHFT/Chronicle-Bytes,Rename Variable,5
+OpenAI_Codex,OpenHFT/Chronicle-Core,Add Method Annotation,10
+OpenAI_Codex,OpenHFT/Chronicle-Core,Add Parameter,1
+OpenAI_Codex,OpenHFT/Chronicle-Core,Add Parameter Annotation,4
+OpenAI_Codex,OpenHFT/Chronicle-Core,Change Parameter Type,2
+OpenAI_Codex,OpenHFT/Chronicle-Core,Extract Method,2
+OpenAI_Codex,OpenHFT/Chronicle-Core,Inline Variable,1
+OpenAI_Codex,OpenHFT/Chronicle-Core,Rename Parameter,12
+OpenAI_Codex,OpenHFT/Chronicle-Threads,Remove Parameter Modifier,2
+OpenAI_Codex,OpenHFT/Chronicle-Values,Add Attribute Modifier,1
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Add Attribute Modifier,81
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Change Parameter Type,1
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Change Return Type,2
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Change Variable Type,1
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Remove Parameter,1
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Rename Method,8
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Rename Parameter,440
+OpenAI_Codex,OpenHFT/Chronicle-Wire,Rename Variable,8
+OpenAI_Codex,OpenHFT/Java-Runtime-Compiler,Add Method Annotation,2
+OpenAI_Codex,OpenHFT/Java-Runtime-Compiler,Remove Class Annotation,1
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Extract And Move Method,12
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Extract Variable,1
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Modify Method Annotation,6
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Remove Attribute Modifier,18
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Remove Class Annotation,1
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Remove Variable Modifier,9
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Rename Variable,3
+OpenAI_Codex,OpenHFT/Java-Thread-Affinity,Replace Variable With Attribute,3
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Add Parameter,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Change Attribute Type,2
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Change Parameter Type,2
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Change Variable Type,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Extract Method,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Extract Variable,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Inline Variable,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Remove Method Annotation,1
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Rename Attribute,6
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Rename Class,2
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Rename Method,10
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Rename Variable,2
+OpenAI_Codex,SimonHalvdansson/Harmonic-HN,Try With Resources,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Add Class Annotation,3
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Add Method Annotation,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Add Parameter,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Add Parameter Annotation,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Change Method Access Modifier,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Change Return Type,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Extract Method,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Extract Variable,2
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Parameterize Variable,1
+OpenAI_Codex,Stirling-Tools/Stirling-PDF,Remove Parameter,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Add Parameter,7
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Change Variable Type,4
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Extract Method,2
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Extract Variable,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Inline Variable,4
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Move And Rename Method,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Move Attribute,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Remove Class Annotation,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Rename Method,1
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Rename Parameter,2
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Rename Variable,4
+OpenAI_Codex,VerisimilitudeX/DNAnalyzer,Try With Resources,1
+OpenAI_Codex,apache/ozone,Add Attribute Annotation,4
+OpenAI_Codex,apache/ozone,Add Attribute Modifier,3
+OpenAI_Codex,apache/ozone,Add Class Annotation,1
+OpenAI_Codex,apache/ozone,Add Class Modifier,3
+OpenAI_Codex,apache/ozone,Add Method Annotation,8
+OpenAI_Codex,apache/ozone,Add Method Modifier,8
+OpenAI_Codex,apache/ozone,Add Parameter,15
+OpenAI_Codex,apache/ozone,Add Thrown Exception Type,15
+OpenAI_Codex,apache/ozone,Add Variable Modifier,17
+OpenAI_Codex,apache/ozone,Change Attribute Access Modifier,1
+OpenAI_Codex,apache/ozone,Change Attribute Type,10
+OpenAI_Codex,apache/ozone,Change Class Access Modifier,2
+OpenAI_Codex,apache/ozone,Change Method Access Modifier,14
+OpenAI_Codex,apache/ozone,Change Parameter Type,19
+OpenAI_Codex,apache/ozone,Change Return Type,9
+OpenAI_Codex,apache/ozone,Change Thrown Exception Type,4
+OpenAI_Codex,apache/ozone,Change Type Declaration Kind,1
+OpenAI_Codex,apache/ozone,Change Variable Type,41
+OpenAI_Codex,apache/ozone,Collapse Hierarchy,3
+OpenAI_Codex,apache/ozone,Encapsulate Attribute,2
+OpenAI_Codex,apache/ozone,Extract And Move Method,4
+OpenAI_Codex,apache/ozone,Extract Class,3
+OpenAI_Codex,apache/ozone,Extract Method,6
+OpenAI_Codex,apache/ozone,Extract Variable,8
+OpenAI_Codex,apache/ozone,Inline Method,1
+OpenAI_Codex,apache/ozone,Inline Variable,3
+OpenAI_Codex,apache/ozone,Modify Attribute Annotation,6
+OpenAI_Codex,apache/ozone,Modify Method Annotation,1
+OpenAI_Codex,apache/ozone,Move And Inline Method,1
+OpenAI_Codex,apache/ozone,Move And Rename Attribute,1
+OpenAI_Codex,apache/ozone,Move And Rename Method,1
+OpenAI_Codex,apache/ozone,Move Attribute,9
+OpenAI_Codex,apache/ozone,Move Class,2
+OpenAI_Codex,apache/ozone,Move Code,1
+OpenAI_Codex,apache/ozone,Move Method,7
+OpenAI_Codex,apache/ozone,Parameterize Variable,4
+OpenAI_Codex,apache/ozone,Pull Up Attribute,4
+OpenAI_Codex,apache/ozone,Pull Up Method,11
+OpenAI_Codex,apache/ozone,Push Down Attribute,3
+OpenAI_Codex,apache/ozone,Push Down Method,8
+OpenAI_Codex,apache/ozone,Remove Attribute Modifier,9
+OpenAI_Codex,apache/ozone,Remove Method Annotation,5
+OpenAI_Codex,apache/ozone,Remove Method Modifier,1
+OpenAI_Codex,apache/ozone,Remove Parameter,9
+OpenAI_Codex,apache/ozone,Remove Thrown Exception Type,9
+OpenAI_Codex,apache/ozone,Rename Attribute,9
+OpenAI_Codex,apache/ozone,Rename Class,1
+OpenAI_Codex,apache/ozone,Rename Method,17
+OpenAI_Codex,apache/ozone,Rename Parameter,9
+OpenAI_Codex,apache/ozone,Rename Variable,13
+OpenAI_Codex,apache/ozone,Replace Attribute,1
+OpenAI_Codex,apache/ozone,Replace Attribute With Variable,2
+OpenAI_Codex,apache/ozone,Replace Loop With Pipeline,1
+OpenAI_Codex,apache/ozone,Replace Pipeline With Loop,2
+OpenAI_Codex,apache/ozone,Replace Variable With Attribute,2
+OpenAI_Codex,apache/ozone,Try With Resources,3
+OpenAI_Codex,cwuom/ono,Rename Method,1
+OpenAI_Codex,freeplane/freeplane,Add Class Annotation,20
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Add Attribute Modifier,2
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Add Parameter,4
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Add Parameter Annotation,3
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Change Attribute Access Modifier,1
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Change Attribute Type,5
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Change Parameter Type,3
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Extract Method,3
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Extract Variable,2
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Localize Parameter,1
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Move Code,1
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Remove Parameter,3
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Rename Attribute,2
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Rename Variable,2
+OpenAI_Codex,halilozel1903/AndroidTVMovieParadise,Replace Variable With Attribute,1
+OpenAI_Codex,jdereg/java-util,Add Attribute Modifier,9
+OpenAI_Codex,jdereg/java-util,Add Class Modifier,4
+OpenAI_Codex,jdereg/java-util,Add Method Annotation,64
+OpenAI_Codex,jdereg/java-util,Add Method Modifier,1
+OpenAI_Codex,jdereg/java-util,Add Parameter,10
+OpenAI_Codex,jdereg/java-util,Add Thrown Exception Type,9
+OpenAI_Codex,jdereg/java-util,Add Variable Annotation,1
+OpenAI_Codex,jdereg/java-util,Add Variable Modifier,7
+OpenAI_Codex,jdereg/java-util,Change Attribute Type,6
+OpenAI_Codex,jdereg/java-util,Change Class Access Modifier,1
+OpenAI_Codex,jdereg/java-util,Change Method Access Modifier,1
+OpenAI_Codex,jdereg/java-util,Change Parameter Type,27
+OpenAI_Codex,jdereg/java-util,Change Return Type,26
+OpenAI_Codex,jdereg/java-util,Change Thrown Exception Type,9
+OpenAI_Codex,jdereg/java-util,Change Variable Type,99
+OpenAI_Codex,jdereg/java-util,Encapsulate Attribute,1
+OpenAI_Codex,jdereg/java-util,Extract And Move Method,24
+OpenAI_Codex,jdereg/java-util,Extract Attribute,2
+OpenAI_Codex,jdereg/java-util,Extract Method,66
+OpenAI_Codex,jdereg/java-util,Extract Variable,65
+OpenAI_Codex,jdereg/java-util,Inline Method,24
+OpenAI_Codex,jdereg/java-util,Inline Variable,9
+OpenAI_Codex,jdereg/java-util,Invert Condition,3
+OpenAI_Codex,jdereg/java-util,Localize Parameter,2
+OpenAI_Codex,jdereg/java-util,Merge Method,1
+OpenAI_Codex,jdereg/java-util,Modify Method Annotation,1
+OpenAI_Codex,jdereg/java-util,Move And Inline Method,3
+OpenAI_Codex,jdereg/java-util,Move And Rename Method,1
+OpenAI_Codex,jdereg/java-util,Parameterize Attribute,1
+OpenAI_Codex,jdereg/java-util,Parameterize Variable,1
+OpenAI_Codex,jdereg/java-util,Remove Attribute Modifier,5
+OpenAI_Codex,jdereg/java-util,Remove Class Annotation,1
+OpenAI_Codex,jdereg/java-util,Remove Method Annotation,5
+OpenAI_Codex,jdereg/java-util,Remove Method Modifier,5
+OpenAI_Codex,jdereg/java-util,Remove Parameter,2
+OpenAI_Codex,jdereg/java-util,Remove Thrown Exception Type,37
+OpenAI_Codex,jdereg/java-util,Remove Variable Modifier,2
+OpenAI_Codex,jdereg/java-util,Rename Attribute,1
+OpenAI_Codex,jdereg/java-util,Rename Method,7
+OpenAI_Codex,jdereg/java-util,Rename Parameter,11
+OpenAI_Codex,jdereg/java-util,Rename Variable,82
+OpenAI_Codex,jdereg/java-util,Replace Attribute With Variable,2
+OpenAI_Codex,jdereg/java-util,Split Conditional,3
+OpenAI_Codex,jdereg/java-util,Split Method,1
+OpenAI_Codex,jdereg/json-io,Add Thrown Exception Type,1
+OpenAI_Codex,jdereg/json-io,Change Attribute Type,3
+OpenAI_Codex,jdereg/json-io,Change Class Access Modifier,2
+OpenAI_Codex,jdereg/json-io,Change Return Type,1
+OpenAI_Codex,jdereg/json-io,Change Variable Type,10
+OpenAI_Codex,jdereg/json-io,Extract Attribute,1
+OpenAI_Codex,jdereg/json-io,Extract Variable,11
+OpenAI_Codex,jdereg/json-io,Inline Variable,1
+OpenAI_Codex,jdereg/json-io,Merge Conditional,1
+OpenAI_Codex,jdereg/json-io,Remove Variable Modifier,1
+OpenAI_Codex,jdereg/json-io,Rename Variable,5
+OpenAI_Codex,jdereg/json-io,Split Conditional,1
+OpenAI_Codex,nuxeo/nuxeo,Add Parameter,2
+OpenAI_Codex,nuxeo/nuxeo,Change Method Access Modifier,1
+OpenAI_Codex,nuxeo/nuxeo,Change Variable Type,2
+OpenAI_Codex,nuxeo/nuxeo,Inline Variable,1
+OpenAI_Codex,operaton/operaton,Add Attribute Annotation,171
+OpenAI_Codex,operaton/operaton,Add Attribute Modifier,33
+OpenAI_Codex,operaton/operaton,Add Class Annotation,9
+OpenAI_Codex,operaton/operaton,Add Method Annotation,167
+OpenAI_Codex,operaton/operaton,Add Method Modifier,1
+OpenAI_Codex,operaton/operaton,Add Parameter,2
+OpenAI_Codex,operaton/operaton,Add Thrown Exception Type,1
+OpenAI_Codex,operaton/operaton,Assert Throws,8
+OpenAI_Codex,operaton/operaton,Change Attribute Access Modifier,70
+OpenAI_Codex,operaton/operaton,Change Attribute Type,173
+OpenAI_Codex,operaton/operaton,Change Class Access Modifier,49
+OpenAI_Codex,operaton/operaton,Change Method Access Modifier,220
+OpenAI_Codex,operaton/operaton,Change Return Type,18
+OpenAI_Codex,operaton/operaton,Change Variable Type,163
+OpenAI_Codex,operaton/operaton,Modify Class Annotation,1
+OpenAI_Codex,operaton/operaton,Modify Method Annotation,3
+OpenAI_Codex,operaton/operaton,Remove Attribute Annotation,131
+OpenAI_Codex,operaton/operaton,Remove Attribute Modifier,11
+OpenAI_Codex,operaton/operaton,Remove Class Annotation,6
+OpenAI_Codex,operaton/operaton,Remove Method Annotation,167
+OpenAI_Codex,operaton/operaton,Rename Class,2
+OpenAI_Codex,operaton/operaton,Rename Method,12
+OpenAI_Codex,plantuml/plantuml,Rename Method,1
+OpenAI_Codex,spring-projects/spring-kafka,Change Method Access Modifier,2
+OpenAI_Codex,spring-projects/spring-kafka,Change Variable Type,1
+OpenAI_Codex,spring-projects/spring-kafka,Extract Variable,3
+OpenAI_Codex,spring-projects/spring-kafka,Inline Variable,1
+OpenAI_Codex,spring-projects/spring-kafka,Modify Class Annotation,1
+OpenAI_Codex,spring-projects/spring-kafka,Try With Resources,1
+OpenAI_Codex,stingle/stingle-photos-android,Rename Method,1
+OpenAI_Codex,stingle/stingle-photos-android,Try With Resources,1
+OpenAI_Codex,xpinjection/test-driven-spring-boot,Add Class Annotation,9
+OpenAI_Codex,xpinjection/test-driven-spring-boot,Remove Class Annotation,2

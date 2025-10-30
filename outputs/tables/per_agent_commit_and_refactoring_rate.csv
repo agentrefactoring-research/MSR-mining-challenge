@@ -1,0 +1,7 @@
+agent,total_commits,refactoring_commits,total_refactorings,refactoring_rate_%,mean_refactors_per_ref_commit
+Claude_Code,37,22,16780,59.459,762.727
+Copilot,1190,156,15716,13.109,100.744
+Cursor,68,7,31,10.294,4.429
+Devin,41,5,70,12.195,14.0
+Human,6466,1142,11659,17.662,10.209
+OpenAI_Codex,1290,223,3599,17.287,16.139

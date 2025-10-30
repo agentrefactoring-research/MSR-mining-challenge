@@ -1,0 +1,20 @@
+
+=== 🌍 GLOBAL SUMMARY ===
+Total unique commits: 5,875
+Commits with refactoring (observed): 1,555 (26.47%)
+Agents detected: 6
+
+=== ⚖️ HUMAN NORMALIZATION CHECK ===
+Subset (analyzed only): 1142/3249 = 35.15%
+Normalized to ALL PR commits: 1142/6466 = 17.66%
+
+✅ Tables written to: C:\Users\Daniel\Documents\GitHub\msr-mining-challenge-2026\outputs\tables
+
+📈 Kruskal–Wallis across agents: H=235.30, p=7.827e-49
+
+📊 Pairwise Mann–Whitney U (Human vs Agent):
+   Claude_Code : U=97813, p=9.738e-08
+       Copilot : U=1844984, p=4.827e-30
+        Cursor : U=101142, p=0.000395
+         Devin : U=63929, p=0.02545
+  OpenAI_Codex : U=2078240, p=6.031e-21

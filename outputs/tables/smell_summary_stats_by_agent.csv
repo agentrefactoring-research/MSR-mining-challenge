@@ -1,0 +1,9 @@
+,,smells_before,smells_before,smells_before,smells_before,smells_before,smells_after,smells_after,smells_after,smells_after,smells_after,delta,delta,delta,delta,delta
+,,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+dataset,agent,,,,,,,,,,,,,,,
+Agentic,Claude_Code,179.1,126.0,147.55,2,518,214.6,211.0,144.13,2,518,35.5,0.0,91.57,-3,296
+Agentic,Copilot,71.82,26.0,235.59,0,2478,74.04,28.0,235.46,1,2478,2.22,0.0,20.91,-88,137
+Agentic,Cursor,87.14,3.0,140.78,0,297,107.0,21.0,136.32,0,304,19.86,3.0,40.92,0,112
+Agentic,Devin,60.0,62.0,6.6,53,66,60.0,62.0,6.6,53,66,0.0,0.0,0.0,0,0
+Agentic,OpenAI_Codex,470.45,29.0,1458.7,0,11360,469.26,31.0,1459.01,0,11376,-1.2,0.0,21.01,-237,22
+Human,Human,44.2,15.0,231.5,0,4829,46.63,16.0,238.85,0,5028,2.43,0.0,12.65,-42,199

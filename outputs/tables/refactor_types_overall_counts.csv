@@ -1,0 +1,100 @@
+refactoring_type,count
+Add Method Annotation,26769
+Add Parameter Annotation,16912
+Modify Method Annotation,13529
+Modify Class Annotation,2597
+Add Class Annotation,2492
+Remove Method Annotation,2192
+Change Variable Type,2188
+Move Class,2121
+Remove Parameter,1662
+Change Return Type,1338
+Rename Variable,1240
+Rename Parameter,1155
+Rename Method,1046
+Add Parameter,1011
+Extract Variable,974
+Change Method Access Modifier,926
+Add Attribute Annotation,921
+Extract Method,909
+Change Attribute Type,902
+Rename Attribute,902
+Change Parameter Type,838
+Inline Variable,832
+Change Attribute Access Modifier,829
+Move Attribute,792
+Remove Attribute Annotation,788
+Move Method,657
+Add Attribute Modifier,542
+Extract And Move Method,368
+Add Method Modifier,361
+Remove Thrown Exception Type,356
+Rename Class,313
+Remove Attribute Modifier,300
+Move And Rename Method,241
+Add Parameter Modifier,180
+Pull Up Method,179
+Change Class Access Modifier,167
+Remove Parameter Annotation,159
+Add Variable Modifier,135
+Move And Rename Class,132
+Encapsulate Attribute,122
+Pull Up Attribute,118
+Extract Class,108
+Add Thrown Exception Type,105
+Remove Class Annotation,100
+Parameterize Variable,92
+Add Class Modifier,90
+Inline Method,85
+Replace Variable With Attribute,84
+Extract Attribute,77
+Remove Parameter Modifier,74
+Move Source Folder,69
+Split Conditional,62
+Move Code,58
+Remove Method Modifier,57
+Reorder Parameter,54
+Invert Condition,54
+Merge Conditional,52
+Extract Superclass,51
+Modify Parameter Annotation,49
+Remove Variable Modifier,49
+Replace Attribute With Variable,47
+Rename Package,42
+Remove Class Modifier,41
+Replace Anonymous With Lambda,37
+Replace Generic With Diamond,36
+Localize Parameter,36
+Parameterize Attribute,32
+Push Down Method,31
+Change Thrown Exception Type,26
+Move And Inline Method,24
+Move Package,21
+Merge Parameter,20
+Push Down Attribute,19
+Modify Attribute Annotation,14
+Merge Class,13
+Split Method,13
+Move And Rename Attribute,13
+Replace Anonymous With Class,13
+Extract Interface,11
+Collapse Hierarchy,11
+Change Type Declaration Kind,10
+Try With Resources,9
+Split Class,8
+Assert Throws,8
+Extract Subclass,7
+Split Attribute,7
+Replace Conditional With Ternary,7
+Split Parameter,6
+Split Variable,4
+Merge Attribute,4
+Merge Package,3
+Merge Variable,3
+Merge Method,2
+Inline Attribute,2
+Replace Pipeline With Loop,2
+Replace Attribute,1
+Replace Loop With Pipeline,1
+Add Variable Annotation,1
+Split Package,1

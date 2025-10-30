@@ -1,0 +1,289 @@
+agent,refactoring_type,count
+Claude_Code,Add Method Annotation,25233
+Claude_Code,Add Parameter Annotation,16755
+Claude_Code,Modify Method Annotation,13343
+Claude_Code,Add Class Annotation,2281
+Claude_Code,Modify Class Annotation,1375
+Claude_Code,Remove Method Annotation,654
+Claude_Code,Change Variable Type,377
+Claude_Code,Change Return Type,269
+Claude_Code,Remove Parameter Annotation,128
+Claude_Code,Remove Thrown Exception Type,109
+Claude_Code,Add Method Modifier,100
+Claude_Code,Add Parameter,90
+Claude_Code,Reorder Parameter,50
+Claude_Code,Modify Parameter Annotation,48
+Claude_Code,Rename Method,37
+Claude_Code,Extract Variable,26
+Claude_Code,Remove Parameter,11
+Claude_Code,Rename Variable,9
+Claude_Code,Inline Variable,5
+Claude_Code,Add Variable Modifier,3
+Claude_Code,Add Parameter Modifier,2
+Claude_Code,Change Attribute Type,2
+Claude_Code,Extract Method,2
+Claude_Code,Add Attribute Modifier,1
+Claude_Code,Move Source Folder,1
+Claude_Code,Remove Attribute Modifier,1
+Claude_Code,Remove Method Modifier,1
+Claude_Code,Rename Attribute,1
+Copilot,Remove Parameter,1432
+Copilot,Move Class,1375
+Copilot,Remove Method Annotation,1234
+Copilot,Modify Class Annotation,1171
+Copilot,Change Variable Type,1079
+Copilot,Add Method Annotation,862
+Copilot,Rename Variable,774
+Copilot,Inline Variable,668
+Copilot,Add Attribute Annotation,599
+Copilot,Move Attribute,584
+Copilot,Remove Attribute Annotation,573
+Copilot,Change Return Type,551
+Copilot,Extract Variable,494
+Copilot,Add Parameter,480
+Copilot,Rename Attribute,473
+Copilot,Move Method,405
+Copilot,Change Attribute Type,287
+Copilot,Rename Parameter,282
+Copilot,Rename Method,276
+Copilot,Change Parameter Type,270
+Copilot,Extract Method,212
+Copilot,Remove Thrown Exception Type,192
+Copilot,Change Method Access Modifier,180
+Copilot,Modify Method Annotation,159
+Copilot,Remove Attribute Modifier,159
+Copilot,Move And Rename Method,128
+Copilot,Rename Class,122
+Copilot,Add Class Annotation,98
+Copilot,Remove Class Annotation,64
+Copilot,Add Thrown Exception Type,38
+Copilot,Move And Rename Class,37
+Copilot,Extract And Move Method,34
+Copilot,Extract Class,30
+Copilot,Add Attribute Modifier,28
+Copilot,Change Attribute Access Modifier,27
+Copilot,Parameterize Variable,27
+Copilot,Pull Up Method,26
+Copilot,Encapsulate Attribute,25
+Copilot,Inline Method,25
+Copilot,Localize Parameter,22
+Copilot,Remove Variable Modifier,22
+Copilot,Replace Variable With Attribute,22
+Copilot,Move Code,21
+Copilot,Pull Up Attribute,21
+Copilot,Move Source Folder,17
+Copilot,Merge Parameter,16
+Copilot,Add Method Modifier,15
+Copilot,Remove Parameter Annotation,14
+Copilot,Change Thrown Exception Type,13
+Copilot,Add Variable Modifier,12
+Copilot,Add Class Modifier,11
+Copilot,Extract Attribute,9
+Copilot,Remove Method Modifier,9
+Copilot,Change Class Access Modifier,8
+Copilot,Collapse Hierarchy,8
+Copilot,Move And Inline Method,8
+Copilot,Merge Class,7
+Copilot,Split Class,7
+Copilot,Replace Generic With Diamond,6
+Copilot,Split Conditional,6
+Copilot,Change Type Declaration Kind,5
+Copilot,Extract Superclass,4
+Copilot,Parameterize Attribute,4
+Copilot,Split Attribute,4
+Copilot,Split Variable,4
+Copilot,Invert Condition,3
+Copilot,Move Package,3
+Copilot,Replace Anonymous With Class,3
+Copilot,Split Parameter,3
+Copilot,Add Parameter Modifier,2
+Copilot,Remove Class Modifier,2
+Copilot,Replace Anonymous With Lambda,2
+Copilot,Replace Attribute With Variable,2
+Copilot,Split Method,2
+Copilot,Try With Resources,2
+Copilot,Extract Interface,1
+Copilot,Merge Conditional,1
+Copilot,Merge Package,1
+Copilot,Merge Variable,1
+Copilot,Modify Parameter Annotation,1
+Copilot,Move And Rename Attribute,1
+Copilot,Replace Conditional With Ternary,1
+Cursor,Extract Method,9
+Cursor,Extract And Move Method,5
+Cursor,Parameterize Variable,5
+Cursor,Add Method Annotation,3
+Cursor,Encapsulate Attribute,2
+Cursor,Remove Method Annotation,2
+Cursor,Change Attribute Type,1
+Cursor,Extract Variable,1
+Cursor,Inline Variable,1
+Cursor,Remove Thrown Exception Type,1
+Cursor,Rename Method,1
+Devin,Add Attribute Annotation,23
+Devin,Remove Attribute Annotation,23
+Devin,Extract Method,9
+Devin,Merge Conditional,8
+Devin,Rename Variable,5
+Devin,Invert Condition,2
+Human,Change Attribute Access Modifier,1038
+Human,Move Class,1036
+Human,Extract Method,872
+Human,Change Parameter Type,867
+Human,Add Method Annotation,839
+Human,Change Return Type,783
+Human,Change Method Access Modifier,743
+Human,Rename Method,721
+Human,Change Variable Type,643
+Human,Change Attribute Type,594
+Human,Extract And Move Method,591
+Human,Add Parameter,510
+Human,Extract Variable,509
+Human,Rename Parameter,479
+Human,Add Parameter Modifier,460
+Human,Rename Attribute,433
+Human,Add Attribute Modifier,424
+Human,Add Method Modifier,402
+Human,Move Method,387
+Human,Rename Variable,365
+Human,Remove Parameter,295
+Human,Move Attribute,278
+Human,Rename Class,271
+Human,Inline Variable,229
+Human,Pull Up Method,224
+Human,Add Parameter Annotation,203
+Human,Add Attribute Annotation,180
+Human,Add Variable Modifier,170
+Human,Move And Rename Method,156
+Human,Change Class Access Modifier,155
+Human,Move And Rename Class,149
+Human,Remove Method Annotation,140
+Human,Add Class Annotation,139
+Human,Add Class Modifier,136
+Human,Pull Up Attribute,129
+Human,Remove Parameter Modifier,126
+Human,Remove Attribute Modifier,123
+Human,Encapsulate Attribute,112
+Human,Split Conditional,110
+Human,Extract Class,99
+Human,Modify Class Annotation,87
+Human,Extract Attribute,85
+Human,Rename Package,76
+Human,Parameterize Variable,70
+Human,Remove Attribute Annotation,69
+Human,Extract Superclass,65
+Human,Move Source Folder,63
+Human,Replace Variable With Attribute,62
+Human,Merge Conditional,61
+Human,Invert Condition,60
+Human,Remove Class Modifier,59
+Human,Add Thrown Exception Type,47
+Human,Replace Generic With Diamond,46
+Human,Remove Method Modifier,45
+Human,Inline Method,43
+Human,Replace Attribute With Variable,41
+Human,Move Code,39
+Human,Parameterize Attribute,35
+Human,Replace Anonymous With Lambda,35
+Human,Move Package,34
+Human,Remove Class Annotation,32
+Human,Modify Method Annotation,26
+Human,Push Down Method,23
+Human,Remove Variable Modifier,21
+Human,Remove Parameter Annotation,17
+Human,Push Down Attribute,16
+Human,Split Method,14
+Human,Move And Inline Method,12
+Human,Localize Parameter,11
+Human,Move And Rename Attribute,11
+Human,Extract Interface,10
+Human,Merge Class,10
+Human,Modify Attribute Annotation,10
+Human,Replace Anonymous With Class,10
+Human,Remove Thrown Exception Type,8
+Human,Extract Subclass,7
+Human,Change Type Declaration Kind,6
+Human,Replace Conditional With Ternary,6
+Human,Split Attribute,5
+Human,Split Parameter,5
+Human,Merge Attribute,4
+Human,Merge Parameter,4
+Human,Reorder Parameter,4
+Human,Inline Attribute,2
+Human,Merge Package,2
+Human,Merge Variable,2
+Human,Merge Method,1
+Human,Split Class,1
+Human,Split Package,1
+OpenAI_Codex,Rename Parameter,556
+OpenAI_Codex,Change Variable Type,341
+OpenAI_Codex,Add Method Annotation,252
+OpenAI_Codex,Change Method Access Modifier,239
+OpenAI_Codex,Change Attribute Type,210
+OpenAI_Codex,Rename Variable,199
+OpenAI_Codex,Rename Method,195
+OpenAI_Codex,Remove Method Annotation,178
+OpenAI_Codex,Add Attribute Annotation,175
+OpenAI_Codex,Remove Attribute Annotation,131
+OpenAI_Codex,Add Attribute Modifier,129
+OpenAI_Codex,Extract Variable,106
+OpenAI_Codex,Rename Attribute,85
+OpenAI_Codex,Extract Method,83
+OpenAI_Codex,Change Attribute Access Modifier,72
+OpenAI_Codex,Change Parameter Type,57
+OpenAI_Codex,Change Return Type,57
+OpenAI_Codex,Change Class Access Modifier,54
+OpenAI_Codex,Remove Thrown Exception Type,46
+OpenAI_Codex,Add Class Annotation,44
+OpenAI_Codex,Add Parameter,43
+OpenAI_Codex,Remove Attribute Modifier,43
+OpenAI_Codex,Extract And Move Method,40
+OpenAI_Codex,Add Thrown Exception Type,28
+OpenAI_Codex,Inline Method,25
+OpenAI_Codex,Add Variable Modifier,24
+OpenAI_Codex,Inline Variable,23
+OpenAI_Codex,Remove Parameter,16
+OpenAI_Codex,Change Thrown Exception Type,13
+OpenAI_Codex,Remove Class Annotation,12
+OpenAI_Codex,Remove Variable Modifier,12
+OpenAI_Codex,Modify Method Annotation,11
+OpenAI_Codex,Pull Up Method,11
+OpenAI_Codex,Add Method Modifier,10
+OpenAI_Codex,Move Attribute,10
+OpenAI_Codex,Rename Class,10
+OpenAI_Codex,Add Parameter Annotation,8
+OpenAI_Codex,Assert Throws,8
+OpenAI_Codex,Push Down Method,8
+OpenAI_Codex,Add Class Modifier,7
+OpenAI_Codex,Move Method,7
+OpenAI_Codex,Try With Resources,7
+OpenAI_Codex,Modify Attribute Annotation,6
+OpenAI_Codex,Parameterize Variable,6
+OpenAI_Codex,Remove Method Modifier,6
+OpenAI_Codex,Replace Variable With Attribute,6
+OpenAI_Codex,Extract Class,5
+OpenAI_Codex,Move And Inline Method,4
+OpenAI_Codex,Pull Up Attribute,4
+OpenAI_Codex,Replace Attribute With Variable,4
+OpenAI_Codex,Split Conditional,4
+OpenAI_Codex,Collapse Hierarchy,3
+OpenAI_Codex,Encapsulate Attribute,3
+OpenAI_Codex,Extract Attribute,3
+OpenAI_Codex,Invert Condition,3
+OpenAI_Codex,Localize Parameter,3
+OpenAI_Codex,Move And Rename Method,3
+OpenAI_Codex,Push Down Attribute,3
+OpenAI_Codex,Merge Conditional,2
+OpenAI_Codex,Modify Class Annotation,2
+OpenAI_Codex,Move Class,2
+OpenAI_Codex,Move Code,2
+OpenAI_Codex,Remove Parameter Modifier,2
+OpenAI_Codex,Replace Pipeline With Loop,2
+OpenAI_Codex,Add Variable Annotation,1
+OpenAI_Codex,Change Type Declaration Kind,1
+OpenAI_Codex,Merge Method,1
+OpenAI_Codex,Move And Rename Attribute,1
+OpenAI_Codex,Parameterize Attribute,1
+OpenAI_Codex,Replace Attribute,1
+OpenAI_Codex,Replace Loop With Pipeline,1
+OpenAI_Codex,Split Method,1

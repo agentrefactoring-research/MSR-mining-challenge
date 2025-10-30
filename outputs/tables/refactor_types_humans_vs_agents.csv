@@ -1,0 +1,184 @@
+group,refactoring_type,count,group_total,share_pct
+Agentic,Add Method Annotation,26350,80492,32.736172538885846
+Agentic,Add Parameter Annotation,16763,80492,20.825672116483627
+Agentic,Modify Method Annotation,13513,80492,16.788003776772847
+Agentic,Modify Class Annotation,2548,80492,3.1655319783332505
+Agentic,Add Class Annotation,2423,80492,3.010237042190528
+Agentic,Remove Method Annotation,2068,80492,2.569199423545197
+Agentic,Change Variable Type,1797,80492,2.2325200019877753
+Agentic,Remove Parameter,1459,80492,1.8126024946578543
+Agentic,Move Class,1377,80492,1.7107290165482285
+Agentic,Rename Variable,987,80492,1.226208815782935
+Agentic,Change Return Type,877,80492,1.0895492719773394
+Agentic,Rename Parameter,838,80492,1.04109725190081
+Agentic,Add Attribute Annotation,797,80492,0.990160512845997
+Agentic,Remove Attribute Annotation,727,80492,0.9031953486060726
+Agentic,Inline Variable,697,80492,0.8659245639318194
+Agentic,Extract Variable,627,80492,0.7789593996918949
+Agentic,Add Parameter,613,80492,0.7615663668439099
+Agentic,Move Attribute,594,80492,0.7379615365502161
+Agentic,Rename Attribute,559,80492,0.694478954430254
+Agentic,Rename Method,509,80492,0.6323609799731651
+Agentic,Change Attribute Type,500,80492,0.6211797445708891
+Agentic,Change Method Access Modifier,419,80492,0.520548625950405
+Agentic,Move Method,412,80492,0.5118521095264126
+Agentic,Remove Thrown Exception Type,348,80492,0.43234110222133876
+Agentic,Change Parameter Type,327,80492,0.4062515529493614
+Agentic,Extract Method,315,80492,0.39134323907966007
+Agentic,Remove Attribute Modifier,203,80492,0.2521989762957809
+Agentic,Add Attribute Modifier,158,80492,0.19629279928440094
+Agentic,Remove Parameter Annotation,142,80492,0.1764150474581325
+Agentic,Rename Class,132,80492,0.1639914525667147
+Agentic,Move And Rename Method,131,80492,0.1627490930775729
+Agentic,Add Method Modifier,125,80492,0.15529493614272227
+Agentic,Change Attribute Access Modifier,99,80492,0.12299358942503603
+Agentic,Extract And Move Method,79,80492,0.09814639964220047
+Agentic,Remove Class Annotation,76,80492,0.09441932117477514
+Agentic,Add Thrown Exception Type,66,80492,0.08199572628335736
+Agentic,Change Class Access Modifier,62,80492,0.07702628832679023
+Agentic,Inline Method,50,80492,0.0621179744570889
+Agentic,Reorder Parameter,50,80492,0.0621179744570889
+Agentic,Modify Parameter Annotation,49,80492,0.060875614967947134
+Agentic,Add Variable Modifier,39,80492,0.048452020076529344
+Agentic,Parameterize Variable,38,80492,0.04720966058738757
+Agentic,Move And Rename Class,37,80492,0.04596730109824579
+Agentic,Pull Up Method,37,80492,0.04596730109824579
+Agentic,Extract Class,35,80492,0.04348258211996223
+Agentic,Remove Variable Modifier,34,80492,0.04224022263082045
+Agentic,Encapsulate Attribute,30,80492,0.03727078467425334
+Agentic,Replace Variable With Attribute,28,80492,0.03478606569596979
+Agentic,Change Thrown Exception Type,26,80492,0.032301346717686225
+Agentic,Localize Parameter,25,80492,0.03105898722854445
+Agentic,Pull Up Attribute,25,80492,0.03105898722854445
+Agentic,Move Code,23,80492,0.028574268250260895
+Agentic,Add Class Modifier,18,80492,0.022362470804552004
+Agentic,Move Source Folder,18,80492,0.022362470804552004
+Agentic,Merge Parameter,16,80492,0.01987775182626845
+Agentic,Remove Method Modifier,16,80492,0.01987775182626845
+Agentic,Extract Attribute,12,80492,0.014908313869701336
+Agentic,Move And Inline Method,12,80492,0.014908313869701336
+Agentic,Collapse Hierarchy,11,80492,0.01366595438055956
+Agentic,Merge Conditional,11,80492,0.01366595438055956
+Agentic,Split Conditional,10,80492,0.01242359489141778
+Agentic,Try With Resources,9,80492,0.011181235402276002
+Agentic,Assert Throws,8,80492,0.009938875913134224
+Agentic,Invert Condition,8,80492,0.009938875913134224
+Agentic,Push Down Method,8,80492,0.009938875913134224
+Agentic,Merge Class,7,80492,0.008696516423992447
+Agentic,Split Class,7,80492,0.008696516423992447
+Agentic,Change Type Declaration Kind,6,80492,0.007454156934850668
+Agentic,Modify Attribute Annotation,6,80492,0.007454156934850668
+Agentic,Replace Attribute With Variable,6,80492,0.007454156934850668
+Agentic,Replace Generic With Diamond,6,80492,0.007454156934850668
+Agentic,Parameterize Attribute,5,80492,0.00621179744570889
+Agentic,Add Parameter Modifier,4,80492,0.004969437956567112
+Agentic,Extract Superclass,4,80492,0.004969437956567112
+Agentic,Split Attribute,4,80492,0.004969437956567112
+Agentic,Split Variable,4,80492,0.004969437956567112
+Agentic,Move Package,3,80492,0.003727078467425334
+Agentic,Push Down Attribute,3,80492,0.003727078467425334
+Agentic,Replace Anonymous With Class,3,80492,0.003727078467425334
+Agentic,Split Method,3,80492,0.003727078467425334
+Agentic,Split Parameter,3,80492,0.003727078467425334
+Agentic,Move And Rename Attribute,2,80492,0.002484718978283556
+Agentic,Remove Class Modifier,2,80492,0.002484718978283556
+Agentic,Remove Parameter Modifier,2,80492,0.002484718978283556
+Agentic,Replace Anonymous With Lambda,2,80492,0.002484718978283556
+Agentic,Replace Pipeline With Loop,2,80492,0.002484718978283556
+Agentic,Add Variable Annotation,1,80492,0.001242359489141778
+Agentic,Extract Interface,1,80492,0.001242359489141778
+Agentic,Merge Method,1,80492,0.001242359489141778
+Agentic,Merge Package,1,80492,0.001242359489141778
+Agentic,Merge Variable,1,80492,0.001242359489141778
+Agentic,Replace Attribute,1,80492,0.001242359489141778
+Agentic,Replace Conditional With Ternary,1,80492,0.001242359489141778
+Agentic,Replace Loop With Pipeline,1,80492,0.001242359489141778
+Human,Move Class,744,11659,6.381336306715841
+Human,Change Attribute Access Modifier,730,11659,6.2612573977185
+Human,Extract Method,594,11659,5.094776567458616
+Human,Rename Method,537,11659,4.60588386654087
+Human,Change Parameter Type,511,11659,4.382880178402951
+Human,Change Method Access Modifier,507,11659,4.348571918689424
+Human,Change Return Type,461,11659,3.954026931983875
+Human,Add Method Annotation,419,11659,3.5937902049918513
+Human,Change Attribute Type,402,11659,3.4479801012093665
+Human,Add Parameter,398,11659,3.4136718414958405
+Human,Change Variable Type,391,11659,3.35363238699717
+Human,Add Attribute Modifier,384,11659,3.293592932498499
+Human,Extract Variable,347,11659,2.9762415301483833
+Human,Rename Attribute,343,11659,2.9419332704348573
+Human,Rename Parameter,317,11659,2.718929582296938
+Human,Extract And Move Method,289,11659,2.4787717643022558
+Human,Rename Variable,253,11659,2.1699974268805216
+Human,Move Method,245,11659,2.1013809074534695
+Human,Add Method Modifier,236,11659,2.024187323098036
+Human,Remove Parameter,203,11659,1.7411441804614463
+Human,Move Attribute,198,11659,1.6982588558195386
+Human,Rename Class,181,11659,1.552448752037053
+Human,Add Parameter Modifier,176,11659,1.5095634273951453
+Human,Add Parameter Annotation,149,11659,1.2779826743288447
+Human,Pull Up Method,142,11659,1.2179432198301743
+Human,Inline Variable,135,11659,1.1579037653315036
+Human,Add Attribute Annotation,124,11659,1.063556051119307
+Human,Remove Method Annotation,124,11659,1.063556051119307
+Human,Move And Rename Method,110,11659,0.9434771421219658
+Human,Change Class Access Modifier,105,11659,0.9005918174800583
+Human,Remove Attribute Modifier,97,11659,0.8319752980530063
+Human,Add Variable Modifier,96,11659,0.8233982331246248
+Human,Move And Rename Class,95,11659,0.8148211681962432
+Human,Pull Up Attribute,93,11659,0.7976670383394802
+Human,Encapsulate Attribute,92,11659,0.7890899734110988
+Human,Extract Class,73,11659,0.62612573977185
+Human,Add Class Modifier,72,11659,0.6175486748434685
+Human,Remove Parameter Modifier,72,11659,0.6175486748434685
+Human,Add Class Annotation,69,11659,0.591817480058324
+Human,Extract Attribute,65,11659,0.557509220344798
+Human,Remove Attribute Annotation,61,11659,0.523200960631272
+Human,Replace Variable With Attribute,56,11659,0.48031563598936444
+Human,Parameterize Variable,54,11659,0.46316150613260143
+Human,Split Conditional,52,11659,0.4460073762758384
+Human,Move Source Folder,51,11659,0.43743031134745686
+Human,Modify Class Annotation,49,11659,0.4202761814906939
+Human,Extract Superclass,47,11659,0.40312205163393083
+Human,Invert Condition,46,11659,0.3945449867055494
+Human,Rename Package,42,11659,0.3602367269920233
+Human,Merge Conditional,41,11659,0.35165966206364185
+Human,Remove Method Modifier,41,11659,0.35165966206364185
+Human,Replace Attribute With Variable,41,11659,0.35165966206364185
+Human,Add Thrown Exception Type,39,11659,0.3345055322068788
+Human,Remove Class Modifier,39,11659,0.3345055322068788
+Human,Inline Method,35,11659,0.30019727249335276
+Human,Move Code,35,11659,0.30019727249335276
+Human,Replace Anonymous With Lambda,35,11659,0.30019727249335276
+Human,Replace Generic With Diamond,30,11659,0.25731194785144523
+Human,Parameterize Attribute,27,11659,0.23158075306630072
+Human,Remove Class Annotation,24,11659,0.2058495582811562
+Human,Push Down Method,23,11659,0.1972724933527747
+Human,Move Package,18,11659,0.15438716871086713
+Human,Remove Parameter Annotation,17,11659,0.14581010378248563
+Human,Modify Method Annotation,16,11659,0.13723303885410412
+Human,Push Down Attribute,16,11659,0.13723303885410412
+Human,Remove Variable Modifier,15,11659,0.12865597392572262
+Human,Move And Inline Method,12,11659,0.1029247791405781
+Human,Localize Parameter,11,11659,0.09434771421219658
+Human,Move And Rename Attribute,11,11659,0.09434771421219658
+Human,Extract Interface,10,11659,0.08577064928381507
+Human,Replace Anonymous With Class,10,11659,0.08577064928381507
+Human,Split Method,10,11659,0.08577064928381507
+Human,Modify Attribute Annotation,8,11659,0.06861651942705206
+Human,Remove Thrown Exception Type,8,11659,0.06861651942705206
+Human,Extract Subclass,7,11659,0.060039454498670555
+Human,Merge Class,6,11659,0.05146238957028905
+Human,Replace Conditional With Ternary,6,11659,0.05146238957028905
+Human,Change Type Declaration Kind,4,11659,0.03430825971352603
+Human,Merge Attribute,4,11659,0.03430825971352603
+Human,Merge Parameter,4,11659,0.03430825971352603
+Human,Reorder Parameter,4,11659,0.03430825971352603
+Human,Split Attribute,3,11659,0.025731194785144525
+Human,Split Parameter,3,11659,0.025731194785144525
+Human,Inline Attribute,2,11659,0.017154129856763015
+Human,Merge Package,2,11659,0.017154129856763015
+Human,Merge Variable,2,11659,0.017154129856763015
+Human,Merge Method,1,11659,0.008577064928381508
+Human,Split Class,1,11659,0.008577064928381508
+Human,Split Package,1,11659,0.008577064928381508

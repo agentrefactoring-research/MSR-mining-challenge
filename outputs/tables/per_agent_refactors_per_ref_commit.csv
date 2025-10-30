@@ -1,0 +1,7 @@
+agent,mean_refactors_per_ref_commit,median_refactors_per_ref_commit,std_refactors_per_ref_commit,min_refactors_per_ref_commit,max_refactors_per_ref_commit,num_refactoring_commits
+Claude_Code,762.727,475.0,830.903,1,2320,22
+Copilot,100.744,4.0,337.748,1,2646,156
+Cursor,4.429,4.0,3.259,1,10,7
+Devin,14.0,14.0,7.874,2,24,5
+Human,10.209,3.0,21.499,1,214,1142
+OpenAI_Codex,16.139,2.0,65.202,1,771,223
