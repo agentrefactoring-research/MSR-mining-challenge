@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = PROJECT_ROOT / "data" / "processed"
+DATA_DIR = PROJECT_ROOT / "data" 
 
 PR_COMMITS = DATA_DIR / "baseline_pr_commits.parquet"
 RM_JSON = DATA_DIR / "refminer_baseline_results" / "refminer_all_baseline.json"
