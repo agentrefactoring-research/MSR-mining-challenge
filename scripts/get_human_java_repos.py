@@ -6,7 +6,7 @@ from tqdm import tqdm
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-OUTPUT_CSV = PROJECT_ROOT / "data" / "processed" / "java_baseline_repos.csv"
+OUTPUT_CSV = PROJECT_ROOT / "data" / "java_baseline_repos.csv"
 
 MIN_STARS = 50
 MAX_REPOS = 100
