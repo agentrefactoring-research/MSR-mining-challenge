@@ -6,8 +6,8 @@ import os
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 REPOS_DIR = PROJECT_ROOT / "repos_baseline"
-CSV_PATH = PROJECT_ROOT / "data" / "processed" / "java_baseline_repos.csv"
-OUTPUT_PATH = PROJECT_ROOT / "data" / "processed" / "baseline_pr_commits.parquet"
+CSV_PATH = PROJECT_ROOT / "data" / "java_baseline_repos.csv"
+OUTPUT_PATH = PROJECT_ROOT / "data" / "baseline_pr_commits.parquet"
 
 # Load repo list
 repos_df = pd.read_csv(CSV_PATH)
