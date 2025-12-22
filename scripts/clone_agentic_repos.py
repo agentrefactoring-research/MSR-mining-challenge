@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_RAW = PROJECT_ROOT / "data" / "raw"
-DATA_PROCESSED = PROJECT_ROOT / "data" / "processed"
+DATA_PROCESSED = PROJECT_ROOT / "data"
 CLONE_DIR = PROJECT_ROOT / "repos_forks"
 
 for d in [DATA_PROCESSED, CLONE_DIR]:
