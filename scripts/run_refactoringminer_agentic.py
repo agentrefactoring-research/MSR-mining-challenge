@@ -5,10 +5,10 @@ from pathlib import Path
 from tqdm import tqdm
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = PROJECT_ROOT / "data" / "processed" / "agentic_pr_commits.parquet"
+DATA_PATH = PROJECT_ROOT / "data" / "agentic_pr_commits.parquet"
 REFMINER_BIN = PROJECT_ROOT / "tools" / "RefactoringMiner-3.0.11"
 REPOS_DIR = PROJECT_ROOT / "repos_forks"
-RESULTS_DIR = PROJECT_ROOT / "data" / "processed" / "refminer_results"
+RESULTS_DIR = PROJECT_ROOT / "data" / "refminer_results"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 FINAL_OUTPUT = RESULTS_DIR / "refminer_all.json"
