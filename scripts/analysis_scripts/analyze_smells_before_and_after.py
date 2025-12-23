@@ -9,7 +9,7 @@ import shutil
 import tempfile
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DATA_DIR = PROJECT_ROOT / "data" / "processed"
+DATA_DIR = PROJECT_ROOT / "data" 
 TABLES_DIR = PROJECT_ROOT / "outputs" / "tables"
 LOGS_DIR = PROJECT_ROOT / "outputs" / "logs"
 TEMP_DIR = DATA_DIR / "designite_temp"
